@@ -3,7 +3,7 @@ title: "Gia Toronto - First Tastes"
 date: "2021-07-26"
 categories:
   - "toronto-2"
-thumb: https://meshell.ca/blog/wp-content/uploads/2021/07/Gia-Toronto-Casareccia-Salsiccia-scaled.jpg
+thumb: "https://meshell.ca/blog/wp-content/uploads/2021/07/Gia-Toronto-Casareccia-Salsiccia-scaled.jpg" 957x500
 ---
 
 It feels like it's been a while since we've been excited about a new Toronto vegan friendly spot, and I just want to bottle this feeling up and share it with all of you.
