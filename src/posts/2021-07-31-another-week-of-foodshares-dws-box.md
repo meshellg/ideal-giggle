@@ -1,11 +1,9 @@
 ---
 title: "Recipes for this weeks FoodShare's DWS box."
 date: "2021-07-31"
-categories:
-  - "local-food"
 tags:
   - "foodshare"
-thumb: "https://meshell.ca/blog/wp-content/uploads/2021/07/efo-riro-with-rice.jpg 957x500"
+thumb: https://meshell.ca/blog/wp-content/uploads/2021/07/efo-riro-with-rice.jpg
 
 ---
 

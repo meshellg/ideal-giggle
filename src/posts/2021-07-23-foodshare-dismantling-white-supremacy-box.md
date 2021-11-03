@@ -1,9 +1,7 @@
 ---
 title: "FoodShare Dismantling White Supremacy Box"
 date: "2021-07-23"
-categories: 
-  - "local-food"
-tags: 
+tags:
   - "foodshare"
 coverImage: "DismantlingWhiteSupremacyBox-scaled.jpg"
 ---

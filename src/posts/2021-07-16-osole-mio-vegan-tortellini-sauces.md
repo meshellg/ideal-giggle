@@ -1,9 +1,9 @@
 ---
 title: "O'Sole Mio Vegan Tortellini & Sauces"
 date: "2021-07-16"
-categories: 
-  - "toronto-2"
-coverImage: "O-Sole-Mio-Preprared-Tortellini.jpg"
+tags:
+  - "toronto"
+coverImage: O-Sole-Mio-Preprared-Tortellini.jpg
 ---
 
 I recently spotted [O'Sole Mio](https://www.osolemio.ca) Vegan Tortellini, Rosee, and Alfredo sauce while placing an online grocery order from Metro. O'Sole Mio is a family owned company started in the 90's based in Quebec that makes a variety of fresh pastas and frozen entrees - they currently have four new vegan offerings, and we've tried three of them so far. Here are the packages, the nutritional information as of 07/14/2021, and some of our thoughts on each.
@@ -13,13 +13,13 @@ One of the first things I noticed and appreciated was that all of their sauces a
 ## Plant-Based Tortellini - Beefless
 
 - ![](images/O-Sole-Mio-Plant-Based-Tortellini-front-768x1024.jpg)
-    
+
     Front of O Sole Mio Plant Based Tortellini
-    
+
 - ![](images/O-Sole-Mio-Plant-Based-Tortellini-uncooked-tortellini-768x1024.jpg)
-    
+
     raw fresh tortellini
-    
+
 
 The first item we tried was the beefless vegan tortellini - it's a generous package of 550g, and it fed 2 large appetite adults, with leftovers for later. I paired the tortellini with a [pomodoro pasta sauce from Buca](https://thegoodgrocer.ca/products/buca-toronto-pomodoro-pasta-sauce-750ml), but I think they would also be lovely with a bit of olive oil or vegan butter. They also have a recipe for [Vegan Cheese Tortellini with vegetables](https://www.osolemio.ca/recipes/vegan-cheese-tortellini-with-vegetables/), but I suspect it would be delicious with the beefless as well.
 
