@@ -31,7 +31,7 @@ module.exports = {
         800: '#2d3748',
         900: '#1a202c'
       },
-      teal: colors.teal
+      emerald: colors.emerald
     },
     extend: {
       typography: (theme) => ({
@@ -43,7 +43,7 @@ module.exports = {
             'blockquote': {
               fontWeight: 'normal',
               color: theme('colors.gray.700')
-            },  
+            },
             'blockquote p:first-of-type::before': {
               content: ''
             },
