@@ -5,7 +5,7 @@ categories:
   - "local-food"
 tags:
   - "foodshare"
-thumb: "https://meshell.ca/blog/wp-content/uploads/2021/07/efo-riro-with-rice.jpg"
+thumb: "https://meshell.ca/blog/wp-content/uploads/2021/07/efo-riro-with-rice.jpg 957x500"
 
 ---
 
