@@ -4,10 +4,9 @@ date: "2021-07-31"
 tags:
   - "foodshare"
 thumb: https://meshell.ca/blog/wp-content/uploads/2021/07/efo-riro-with-rice.jpg
-
 ---
 
-When [I posted about this box to twitter last week, it seemed to make some people upset.](https://meshell.ca/blog/foodshare-dismantling-white-supremacy-box/) I don't know if it's the name that triggered their ire, but they complained about the price of this box and shared my post so that I could get a bunch of angry messages about it for no good reason. After thinking about it, I don't really take issue with the price or the contents on any level, but ultimately that's my call to make.
+When [I posted about this box to twitter last week, it seemed to make some people upset.](/foodshare-dismantling-white-supremacy-box/) I don't know if it's the name that triggered their ire, but they complained about the price of this box and shared my post so that I could get a bunch of angry messages about it for no good reason. After thinking about it, I don't really take issue with the price or the contents on any level, but ultimately that's my call to make.
 
 I realize that sometimes people just don't buy a bunch of vegetables on a regular basis, so they may not know how much things cost in stores or otherwise, but getting this box delivered and the contents, is easily worth it to me, for convenience alone. We eat a lot of vegetables when we get this box, because the leafy greens are super fresh and in perfect condition. As an added benefit, it encourages us to be more creative with our meals - which is something a novelty seeker like me, really benefits from.
 
