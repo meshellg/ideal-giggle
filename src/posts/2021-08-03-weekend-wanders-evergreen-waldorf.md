@@ -13,13 +13,13 @@ Saturday mornings at the [Evergreen Farmers Market](https://www.evergreen.ca/eve
 
 Mid-July I started seeing baskets of Niagara peaches from [Reyes Farms](http://www.reyesfarms.ca/) - and I've lived in Ontario long enough to have a preference for late summer peaches vs early summer peaches, but oh wow these are so juicy and perfect. I picked up a basket of them this weekend as well and they're ready to be eaten immediately (occasionally over the sink).
 
-- ![](/img/beets1.jpg)
+![beets](/img/beets1.jpg)
 
-- ![](/img/vegetables1.jpg)
+![vegetables](/img/vegetables1.jpg)
 
 Also see some beautiful beets and fresh veggies from Wheelbarrow Farm when I'm wandering. A couple of weeks ago I picked up my all time favourite pattypan squash and it was perfect roasted. [Wheelbarrow Farm](https://wheelbarrowfarm.com/) is based in Uxbridge, and also has a CSA. I suspect we'll pick a CSA to join in future seasons, so I've been looking around for a few options easily accessible on weekends.
 
-![](img/mochi-evergreen-farmers-market-japan-natural-eats.jpg)
+![mochi](mochi-evergreen-farmers-market-japan-natural-eats.jpg)
 
 Another thing I love at Evergreen is whenever [Natural Japaneats](http://www.naturaljapaneats.ca/) is there. That's not every weekend, but the weekend's she is there are delicious - they have inari, mochi, sushi rolls, and fun character sushi that our kid enjoys. (They are also at other markets around the city, so it's worth checking out their website if you're curious - you can also pre-order there.)
 
