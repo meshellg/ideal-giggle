@@ -3,7 +3,7 @@ title: "DWS Box August 26 - Some pictures and Recipes"
 date: "2021-08-29"
 tags:
   - "foodshare"
-thumbs: "2021-08-29-DWS.jpg"
+thumbs: 2021-08-29-DWS.jpg
 ---
 
 Every week, one of the highlights is the [dismantling white supremacy box](https://goodfoodbox.foodshare.net/collections/organic/products/large-food-justice-box) we get from FoodShare Toronto. This week's box was full of really delicious things, including more perilla leaves, red garden egg, and sharp purple radishes.
