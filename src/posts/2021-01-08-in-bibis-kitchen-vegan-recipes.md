@@ -1,15 +1,15 @@
 ---
 title: "In Bibi's Kitchen - Vegan Recipes"
 date: "2021-01-08"
-categories: 
+categories:
   - "toronto-2"
-tags: 
+tags:
   - "african-recipes"
   - "cookbook-review"
   - "vegan-cooking"
 ---
 
-![](images/IMG_9948-957x1024.jpg)
+![](img/IMG_9948-957x500.jpg)
 
 I recently got a copy of In Bibi's Kitchen, and I ran through it to see which recipes were vegan or easily veganizable (replacing milk/eggs). I realized as I was making my list that it might be helpful to other people considering the book.
 
