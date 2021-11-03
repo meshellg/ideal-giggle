@@ -31,7 +31,7 @@ module.exports = {
         800: '#2d3748',
         900: '#1a202c'
       },
-      emerald: colors.emerald
+      teal: colors.teal
     },
     extend: {
       typography: (theme) => ({
