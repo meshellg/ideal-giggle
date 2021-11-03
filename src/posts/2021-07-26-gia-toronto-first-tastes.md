@@ -1,9 +1,9 @@
 ---
 title: "Gia Toronto - First Tastes"
 date: "2021-07-26"
-categories: 
+categories:
   - "toronto-2"
-coverImage: "Gia-Toronto-Insalata-Panzanella-scaled.jpg"
+thumb: https://meshell.ca/blog/wp-content/uploads/2021/07/Gia-Toronto-Casareccia-Salsiccia-scaled.jpg
 ---
 
 It feels like it's been a while since we've been excited about a new Toronto vegan friendly spot, and I just want to bottle this feeling up and share it with all of you.
@@ -17,27 +17,27 @@ They are not aiming to be totally vegan, but they have a significant amount tast
 I wanted to keep it pretty simple for the first round, we'd had a long day, and this was going to be a late dinner, so we got two appetizers and two mains that we could share. It's always tempting to order several more items and enjoy left overs for a day or two, but maybe next time.
 
 - ![](images/gia-toronto-tortelli-1024x768.jpg)
-    
+
     Porcini Tortelli
-    
+
 - ![](images/Gia-Toronto-Casareccia-Salsiccia-1024x768.jpg)
-    
+
     Casareccia Salsiccia
-    
+
 - ![](images/gia-Toronto-plant-based-crab-cakes-1024x768.jpg)
-    
+
     Vegan Crab Cakes
-    
+
 - ![](images/Gia-Toronto-Insalata-Panzanella-1024x768.jpg)
-    
+
     Insalata Panzanella (vegan appetizer)
-    
+
 
 ## The Appetizers
 
 **Crab cakes** - These were fried to perfection, and I’m assuming okara based, made with organic soy. The shaved orange fennel side salad that was delicate and flavourful, and I'd order it by itself if given the opportunity. It came with a side of citrus aoili.
 
-  
+
 **Insalata Panzanella** - This dish was so much more than it appears - the flavours and textures worked so perfectly together. It has focaccia croutons, heirloom tomatoes, radicchio treviso, crème fraîche, red onion, serrano chilli. There is also a non-vegan version in a different part of the menu, but they confirmed which one we wanted when we ordered.
 
 ## The Mains
