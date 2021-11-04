@@ -8,8 +8,8 @@ module.exports = (config) => {
   config.setDataDeepMerge(true);
 
   config.addPassthroughCopy('src/assets/img/**/*');
-  config.addPassthroughCopy({ 'src/posts/img/**/*': 'assets/img/' });
-
+  config.addPassthroughCopy('src/posts/img/**/*');
+  config.addPassthroughCopy('assets/img/');
   config.addWatchTarget("src/assets/js/");
 
   config.addLayoutAlias('default', 'layouts/default.njk');

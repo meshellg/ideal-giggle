@@ -44,7 +44,7 @@ I wanted to keep it pretty simple for the first round, we'd had a long day, and 
 
 **Casareccia Salsiccia** - long spirally noodles (obviously the official Italian name) with pinto bean sausage, rapini and roasted fennel. The dish was rich and creamy with little bites of bitter rapini balancing it out. I loved the texture and flavour of the pinto bean sausage.
 
-**Porcini Tortelli** - this dish was beautiful and delicious. At the first bite, everything just came together in this powerful hit of umami. Tortelli that are stuffed with wild mushrooms, and tender bits of tuscan kale, and slivers of porcini mushrooms, and all cooked with truffle butter.  
+**Porcini Tortelli** - this dish was beautiful and delicious. At the first bite, everything just came together in this powerful hit of umami. Tortelli that are stuffed with wild mushrooms, and tender bits of Tuscan kale, and slivers of porcini mushrooms, and all cooked with truffle butter.  
 
 Everything is of course subject to change, but our first taste at Gia was great.
 
