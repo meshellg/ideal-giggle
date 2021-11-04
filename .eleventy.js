@@ -10,7 +10,7 @@ module.exports = (config) => {
   config.addPassthroughCopy('src/assets/img/**/*');
   config.addPassthroughCopy('src/posts/img/**/*');
   config.addPassthroughCopy('assets/img/');
-  config.addWatchTarget("src/assets/js/");
+  config.addWatchTarget('src/assets/js/');
 
   config.addLayoutAlias('default', 'layouts/default.njk');
   config.addLayoutAlias('post', 'layouts/post.njk');
