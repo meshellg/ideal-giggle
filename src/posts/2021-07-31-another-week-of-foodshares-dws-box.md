@@ -16,11 +16,11 @@ FoodShare also has a [large conventional produce box](https://goodfoodbox.foodsh
 
 I found it really helpful to have a bunch of ideas for our box contents, and I did refer to it through out the week when I was thinking about what to make.
 
-- ![beet curry](/img/beet-curry-768x1024.jpg)
+- ![beet curry](img/beet-curry-768x1024.jpg)
 
-- ![efo riro](https://meshell.ca/blog/wp-content/uploads/2021/07/efo-riro-with-rice.jpg)
+<img src="https://meshell.ca/blog/wp-content/uploads/2021/07/efo-riro-with-rice.jpg" width="25%" height="25%" >
 
-- ![greens and biscuits](/img/greens-and-biscuits-and-gravy-1024x768.jpg)
+<img src="/img/greens-and-biscuits-and-gravy-1024x768.jpg">
 
 
 Some recipes we really enjoyed with our delivery last week were this [Sri Lankan Beet Root Curry](https://savoryspin.com/beetroot-curry-5/), and I used our bountiful beet greens to make roast beet and kale chips. I made [Okonomi Kitchen's Zucchini Pad Thai,](https://okonomikitchen.com/pad-thai-zucchini-noodles-with-jackfruit-chicken/) but with tofu and some added rice noodles - her sauce was stellar and easy to make with things we had in the house.I cut the broccoli leaves and some of the swiss chard chiffonade style and broccolini for a simple addition to a biscuit and onion gravy breakfast this weekend and it was just wonderful [using this recipe from Sweet Potato Soul.](https://sweetpotatosoul.com/vegan-southern-collard-greens/) I ended up using the rest of the swiss chard leaves in an [Meatless Efo Riro](https://jegbese.com/vegan-no-meat-nigerian-efo-riro/) recipe I love from Jegbese, and the swiss chard stems were made palatable by quick pickling them! I didn't manage to do anything with the mizuna other than throw it into a stir fry. I'll have to try it again another time.
