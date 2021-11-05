@@ -27,7 +27,7 @@
 		"cross-env": "^7.0.3",
 		"eleventy-plugin-tailwindcss": "^0.3.0",
 		"html-minifier": "^4.0.0",
-		"luxon": "^1.24.1",
+		"luxon": "^1.28.0",
 		"rimraf": "^3.0.2",
 		"terser": "^4.8.0"
 	}
