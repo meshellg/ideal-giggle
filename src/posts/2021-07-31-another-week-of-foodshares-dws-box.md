@@ -18,7 +18,7 @@ I found it really helpful to have a bunch of ideas for our box contents, and I d
 
 - ![beet curry](/img/beet-curry-768x1024.jpg)
 
-- ![efo riro](/img/efo-riro-with-rice-768x1024.jpg)
+- ![efo riro](https://meshell.ca/blog/wp-content/uploads/2021/07/efo-riro-with-rice.jpg)
 
 - ![greens and biscuits](/img/greens-and-biscuits-and-gravy-1024x768.jpg)
 
