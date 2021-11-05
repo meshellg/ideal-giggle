@@ -30,5 +30,8 @@
 		"luxon": "^1.28.0",
 		"rimraf": "^3.0.2",
 		"terser": "^4.8.0"
+	},
+	"dependencies": {
+		"sharp": "^0.29.2"
 	}
 }
