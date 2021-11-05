@@ -29,7 +29,6 @@ const pluginTailwind = require('eleventy-plugin-tailwindcss');
     dataTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk'
   };
-};
 
 const Image = require("@11ty/eleventy-img");
 
