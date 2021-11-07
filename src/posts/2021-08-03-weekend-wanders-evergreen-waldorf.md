@@ -25,7 +25,7 @@ Another thing I love at Evergreen is whenever [Natural Japaneats](http://www.nat
 
 After we were finished at Evergreen, we drove up to Markham to get rid of some of my old sewing scraps and some old clothing. The City of Markham has a [Textile Recycling Program](https://www.markham.ca/wps/portal/home/neighbourhood-services/recycling-garbage/services/textiles/06-textiles) that I think is pretty cool, and I'm finding super helpful. In the early days of the pandemic I spent a lot of time making reusable cloth masks with all the extra fabric we had around the house, and that experience helped me get pretty good at using as much of my fabric as I could - but also resulted in some weird fabric waste and it's nice to have a spot to drop things off.
 
-![Markham Textile Recycling Building](markham-textile-recycling-1024x946.jpg)
+![Markham Textile Recycling Building](/img/markham-textile-recycling-1024x946.jpg)
 
 Items that are still in usable condition get donated, but they donate to organizations like the [salvation army](https://buddiesinbadtimes.com/blog/the-salvation-army-still-hates-gays/), so I have extra incentive to sort through everything carefully and make sure to instead donate things in good condition to the many other organizations doing good stuff in the city. I still think it's a generally great idea, and one that would be cool to see happen in Toronto. (Hope they don't mind us using their box... thanks Markham...)
 
