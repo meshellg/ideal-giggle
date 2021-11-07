@@ -4,7 +4,7 @@ date: "2021-08-03"
 tags:
   - "farmers-market"
   - "toronto"
-thumb: "Peaches-1.jpg"
+thumb: "/posts/img/Peaches-1.jpg"
 ---
 
 On the weekends we tend to leave the house as a family and **Go Do Things.** Sometimes that involves driving a couple of hours to a Provincial Park and spending the day hiking or hanging out on the beach or going to a farmers market or farm stand to pick up some fresh local vegetables. This weekend was more of a market weekend, but we still managed to pop over to a park too.
