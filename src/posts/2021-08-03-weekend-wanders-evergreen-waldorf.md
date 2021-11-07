@@ -13,7 +13,7 @@ Saturday mornings at the [Evergreen Farmers Market](https://www.evergreen.ca/eve
 
 Mid-July I started seeing baskets of Niagara peaches from [Reyes Farms](http://www.reyesfarms.ca/) - and I've lived in Ontario long enough to have a preference for late summer peaches vs early summer peaches, but oh wow these are so juicy and perfect. I picked up a basket of them this weekend as well and they're ready to be eaten immediately (occasionally over the sink).
 
-![beets](/img/beets1.jpg)
+![beets](/img/beets-1024x839.jpg)
 
 ![vegetables](/img/vegetables1.jpg)
 
