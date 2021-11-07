@@ -15,23 +15,23 @@ Mid-July I started seeing baskets of Niagara peaches from [Reyes Farms](http://w
 
 ![beets](/img/beets-1024x839.jpg)
 
-![vegetables](/img/vegetables1.jpg)
+![vegetables](/posts/img/vegetables1.jpg)
 
 Also see some beautiful beets and fresh veggies from Wheelbarrow Farm when I'm wandering. A couple of weeks ago I picked up my all time favourite pattypan squash and it was perfect roasted. [Wheelbarrow Farm](https://wheelbarrowfarm.com/) is based in Uxbridge, and also has a CSA. I suspect we'll pick a CSA to join in future seasons, so I've been looking around for a few options easily accessible on weekends.
 
-![mochi](mochi-evergreen-farmers-market-japan-natural-eats.jpg)
+![mochi](/posts/img/mochi-evergreen-farmers-market-japan-natural-eats.jpg)
 
 Another thing I love at Evergreen is whenever [Natural Japaneats](http://www.naturaljapaneats.ca/) is there. That's not every weekend, but the weekend's she is there are delicious - they have inari, mochi, sushi rolls, and fun character sushi that our kid enjoys. (They are also at other markets around the city, so it's worth checking out their website if you're curious - you can also pre-order there.)
 
 After we were finished at Evergreen, we drove up to Markham to get rid of some of my old sewing scraps and some old clothing. The City of Markham has a [Textile Recycling Program](https://www.markham.ca/wps/portal/home/neighbourhood-services/recycling-garbage/services/textiles/06-textiles) that I think is pretty cool, and I'm finding super helpful. In the early days of the pandemic I spent a lot of time making reusable cloth masks with all the extra fabric we had around the house, and that experience helped me get pretty good at using as much of my fabric as I could - but also resulted in some weird fabric waste and it's nice to have a spot to drop things off.
 
-![Marham Textile Recycling Building](/img/markham-textile-recycling-1024x946.jpg)
+![Markham Textile Recycling Building](/posts/img/markham-textile-recycling-1024x946.jpg)
 
 Items that are still in usable condition get donated, but they donate to organizations like the [salvation army](https://buddiesinbadtimes.com/blog/the-salvation-army-still-hates-gays/), so I have extra incentive to sort through everything carefully and make sure to instead donate things in good condition to the many other organizations doing good stuff in the city. I still think it's a generally great idea, and one that would be cool to see happen in Toronto. (Hope they don't mind us using their box... thanks Markham...)
 
 After dropping stuff off, we swung by the [Waldorf Market](https://www.villagemarket.ca/) for some [Hansomm Chef](https://www.hansommchef.com/products) fermented things. I've been loving her kimchi, but the surprise winner recently was the pickled kohlrabi (which we finished a whole jar of), so I wanted to get a bit more for lettuce wraps later this week.
 
-![](/img/hansomm-chef.jpg)
+![](/posts/img/hansomm-chef.jpg)
 
 I also picked up a loaf of rye country sourdough from Our Farm Breads, and it was incredibly popular with our 5 year old. Soft and just a touch sour, a great combination with margarine, he enjoyed a slice when we got home yesterday.
 
