@@ -1,12 +1,8 @@
 ---
 title: "Some Toronto Vegan Businesses Doing Delivery/Pickup during Covid19 Social Distancing."
 date: "2020-05-11"
-categories: 
-  - "toronto-2"
-tags: 
-  - "covid19"
-  - "toronto-delivery"
-  - "vegan-toronto"
+tags:
+  - Toronto
 ---
 
 **Updated: 2021-05-18**
