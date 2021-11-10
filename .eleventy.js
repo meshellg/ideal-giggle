@@ -7,8 +7,9 @@ module.exports = (config) => {
 
   config.setDataDeepMerge(true);
 
+ // The following should copies to `_site/img`
   config.addPassthroughCopy('src/assets/img/**/*');
-  config.addPassthroughCopy('src/posts/img/**/*');
+  config.addPassthroughCopy('src/posts/img/');
   config.addPassthroughCopy('assets/img/');
 
   config.addWatchTarget("src/assets/js/");
