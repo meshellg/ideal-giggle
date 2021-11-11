@@ -14,12 +14,7 @@ One of the first things I noticed and appreciated was that all of their sauces a
 
 - ![Front of O Sole Mio Plant Based Tortellini](img/O-Sole-Mio-Plant-Based-Tortellini-front-768x1024.jpg)
 
-
-
 - ![raw fresh tortellini](img/O-Sole-Mio-Plant-Based-Tortellini-uncooked-tortellini-768x1024.jpg)
-
-
-
 
 The first item we tried was the beefless vegan tortellini - it's a generous package of 550g, and it fed 2 large appetite adults, with leftovers for later. I paired the tortellini with a [pomodoro pasta sauce from Buca](https://thegoodgrocer.ca/products/buca-toronto-pomodoro-pasta-sauce-750ml), but I think they would also be lovely with a bit of olive oil or vegan butter. They also have a recipe for [Vegan Cheese Tortellini with vegetables](https://www.osolemio.ca/recipes/vegan-cheese-tortellini-with-vegetables/), but I suspect it would be delicious with the beefless as well.
 
@@ -33,8 +28,9 @@ Ultimately this was very delicious and something I have already bought again. Pr
 
 1. Bring Salted Water to Boil
 2. Add pasta, stir gently, and drain (5-7 minutes)
-3. Serve immediately with your favourite sauce  
-    \* cook until internal temperature reaches 72 degrees celsius
+3. Serve immediately with your favourite sauce.
+
+ Cook until internal temperature reaches 72 degrees Celsius.
 
 **Notes on preparation:** I'd recommend you use your judgement on preparing the pasta - I know some people try to follow package instructions to the letter, but I had the pasta going with some gentle stirring for more than 8 minutes and some of the tortellini were not entirely cooked through, 10-12 minutes would likely make more sense..  
 [See the package](https://meshell.ca/blog/wp-content/uploads/2021/07/O-Sole-Mio-Plant-Based-Tortellini-ingredients-and-preparation-instructions.jpg), and a close up of the **[Nutritional Information](https://meshell.ca/blog/wp-content/uploads/2021/07/O-Sole-Mio-Plant-Based-Tortellini-Nutritional-Info.jpg)**. (check out that iron/serving)
