@@ -3,7 +3,7 @@ title: "Rivière-du-Loup, PQ - Café L'Innocent and Parc des Chutes"
 date: "2018-10-22"
 tags:
   - "roadtrip-2018"
-thumb: "poutine-cafe-linnoncent-riviere-duloup-min.jpg"
+thumb: "2019-11-latkes.jpg"
 ---
 
 After [Quebec City](http://meshell.ca/blog/quebec-city-pq-wandering-history-les-gourmandes-louca/), we made a pit stop in Rivière-du-Loup - just to grab lunch and stretch our legs for the next part of our trip. Luckily, Café L'Innocent was there for us. It's a funky artsy space with indoor and outdoor seating - and it's conveniently located within a 10 minute walking distance of Parc des Chutes - a beautiful park with a waterfall (that is also a hydroelectric generator) and hiking trails for varying abilities.

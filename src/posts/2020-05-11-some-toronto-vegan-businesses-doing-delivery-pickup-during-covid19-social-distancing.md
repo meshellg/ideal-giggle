@@ -3,7 +3,7 @@ title: "Some Toronto Vegan Businesses Doing Delivery/Pickup during Covid19 Socia
 date: "2020-05-11"
 tags:
   - Toronto
-thumbs: 2020-05-Delivery-Pickup-Options.jpg
+thumb: 2020-05-Delivery-Pickup-Options.jpg
 ---
 
 **Updated: 2021-05-18**

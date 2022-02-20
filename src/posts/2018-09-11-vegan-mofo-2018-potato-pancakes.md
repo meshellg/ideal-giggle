@@ -3,6 +3,7 @@ title: "Vegan MoFo 2018 - Potato Pancakes"
 date: "2018-09-11"
 tags:
   - "vegan-mofo"
+thumb: "2019-11-latkes.jpg"
 ---
 
 In the last few days, I've made three different types of pancakes. On Friday, our son asked for pancakes for breakfast, so I made a few.
