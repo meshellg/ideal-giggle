@@ -3,7 +3,7 @@ title: "Vegan Korean Hot Dogs in Toronto"
 date: "2021-08-19"
 tags:
 - "Toronto"
-thumbs: "2021-08-Vegan-Korean-Hot-Dogs-500x250.jpg"
+thumb: "2021-08-Vegan-Korean-Hot-Dogs-500x250.jpg"
 ---
 
 These go by a few different names, Korean Hot Dogs, gamja hot dogs, ugly dogs and more, but whatever you call them, I want you to know that this Korean street food favourite is available vegan from a couple of places in the city (so far.) I recently ordered a bunch of them from [K Seoul Hotdog](https://kseoulhotdog.com), and they were incredible.

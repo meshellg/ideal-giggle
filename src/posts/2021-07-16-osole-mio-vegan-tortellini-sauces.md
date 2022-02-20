@@ -3,7 +3,7 @@ title: "O'Sole Mio Vegan Tortellini & Sauces"
 date: "2021-07-16"
 tags:
   - "toronto"
-thumb: 2021-07-O-Sole-Mio-Preprared-Tortellini.jpg
+thumb: 2021-07-O-Sole-Mio-Preprared-Tortellini-500x250.jpg
 ---
 
 I recently spotted [O'Sole Mio](https://www.osolemio.ca) Vegan Tortellini, Rosee, and Alfredo sauce while placing an online grocery order from Metro. O'Sole Mio is a family owned company started in the 90's based in Quebec that makes a variety of fresh pastas and frozen entrees - they currently have four new vegan offerings, and we've tried three of them so far. Here are the packages, the nutritional information as of 07/14/2021, and some of our thoughts on each.

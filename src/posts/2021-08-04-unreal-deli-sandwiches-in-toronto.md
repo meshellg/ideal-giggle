@@ -2,7 +2,7 @@
 title: "Unreal Deli Sandwiches in Toronto"
 date: "2021-08-04"
 tags: toronto
-thumbs: "2021-08-Stephanos-Cornd-Beef-Unreal-Deli.jpg"
+thumb: "2021-08-Stephanos-Cornd-Beef-Unreal-Deli-500x250.jpg"
 ---
 
 I've been following [Unreal Deli](https://unrealdeli.com/) ([IG](https://www.instagram.com/unrealdeli/)) online for a year or two, and have been curious about trying their products ever since. They looked really good, and I liked the variety of plant meats they had - things like corned beef, turkey, and now steak slices, but they were primarily USA only at the time, weren't ready to ship to Canada at the time (though will do so now according to their FAQ) and it's not like we will be crossing the border anytime soon, so I waited.
