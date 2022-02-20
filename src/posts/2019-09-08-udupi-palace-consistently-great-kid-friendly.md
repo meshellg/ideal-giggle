@@ -2,7 +2,7 @@
 title: "Udupi Palace - Consistently Great & Kid Friendly"
 date: "2019-09-08"
 tags: toronto
-thumbs: "2019-08-dosa.jpg"
+thumb: "2019-08-dosa.jpg"
 ---
 
 It's become increasingly more important to me that a place be kid friendly when we go out to eat as a family. That can't be surprising, we have a three year old, and since he was born, our eating habits have changed.

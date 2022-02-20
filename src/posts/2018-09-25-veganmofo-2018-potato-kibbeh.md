@@ -3,7 +3,7 @@ title: "VeganMoFo 2018 - Potato Kibbeh"
 date: "2018-09-25"
 tags:
   - "vegan-mofo"
-thumbs: "2018-10-rice-pudding-768x513.jpg"
+thumb: "2018-10-rice-pudding-768x513.jpg"
 ---
 
 ![](images/vegan-recipes-from-the-middle-east-min-225x300.jpg)One of my favourite indulgences is books. Especially kids books, and one of my favourite places to get them is Another Story Bookshop on Roncesvalles in Toronto. Yesterday I popped in to pick up a pre-order, and a few other books for our son, on the way out by the check out - on their fantastic and ever changing cookbook wall - they had Vegan Recipes from the Middle East by Parvin Razavi, so I bought it.

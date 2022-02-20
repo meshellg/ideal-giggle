@@ -3,7 +3,7 @@ title: "Vegan Mofo 2018 - Let's Talk about Moon."
 date: "2018-09-20"
 tags:
   - "veganmofo"
-thumbs: "2018-10-IMG_20180916_170643_01-min-768x432.jpg"
+thumb: "2018-10-IMG_20180916_170643_01-min-768x432.jpg"
 ---
 
 I'd like to dedicate this whole post to someone that has helped my family eat better for nearly an entire year. Have you checked out the meal plans from [Things2Eat](https://www.things2eat.ca/)? Because if you follow me on instagram, you may notice me mention this a few times - since I am a super fan and it has changed my life for the better.

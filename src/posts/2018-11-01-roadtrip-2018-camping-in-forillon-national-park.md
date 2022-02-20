@@ -3,7 +3,7 @@ title: "Roadtrip 2018 - Camping in Forillon National Park"
 date: "2018-11-01"
 tags:
   - "roadtrip-2018"
-thumbs: "2018-11-gaspebae-min-768x432.jpg"
+thumb: "2018-11-gaspebae-min-768x432.jpg"
 ---
 
 Back in August, we did a two week roadtrip through eastern Canada. We stopped in a few places along the way, starting with [Montreal](http://meshell.ca/blog/montreal-cafe-dei-campi/) - [Quebec City](http://meshell.ca/blog/quebec-city-pq-wandering-history-les-gourmandes-louca/) - [Riviere du Loup](http://meshell.ca/blog/riviere-du-loup-pq-cafe-linnocent-and-parc-des-chutes/) - Rimouski - and Camping in Forillon National Park and Kouchibouguac National Park - and then onward to our other destinations.

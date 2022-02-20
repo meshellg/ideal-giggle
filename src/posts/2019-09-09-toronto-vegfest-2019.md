@@ -4,7 +4,7 @@ date: "2019-09-09"
 tags:
   - "toronto"
   - "vegfest"
-thumbs: "veg-food-fest.jpg"
+thumb: "veg-food-fest.jpg"
 ---
 
 We made it to [Toronto's Vegfest](http://vegfoodfest.com/), this will be my 8th year attending. I think I might have missed a year somewhere along the line, but I'm there pretty much every year.

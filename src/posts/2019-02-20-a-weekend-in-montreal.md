@@ -3,7 +3,7 @@ title: "A Weekend in Montreal"
 date: "2019-02-20"
 tags:
   - "montreal"
-thumbs: "2019-02-le-parloir-afternoon-tea-444x250"
+thumb: "2019-02-le-parloir-afternoon-tea-444x250"
 ---
 
 I went away to Montreal with a friend last month. We took the train from Toronto, and it was just a lovely little trip all around - it was the first time I'd been away from our son for so long, and it was nice to have a bit of time away, but still hard and a bit of an adjustment.

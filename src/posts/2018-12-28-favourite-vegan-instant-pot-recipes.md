@@ -3,7 +3,7 @@ title: "Favourite Vegan Instant Pot Recipes"
 date: "2018-12-28"
 tags:
   - "random"
-thumbs: "Im-ready.jpg"
+thumb: "Im-ready.jpg"
 ---
 
 Hello there, did you just get an instant pot?
