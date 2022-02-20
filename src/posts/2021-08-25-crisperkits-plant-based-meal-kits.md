@@ -1,11 +1,9 @@
 ---
 title: "CrisperKits Plant Based Meal Kits"
 date: "2021-08-25"
-categories: 
-  - "toronto-2"
-tags: 
+tags:
   - "cooking-at-home"
-coverImage: "Contents-of-a-meal.jpg"
+thumb: "2021-08-Contents-of-a-meal-500x250.jpg"
 ---
 
 A few weeks ago I subscribed to [Crisper Kits](https://crisperkits.ca/) plant based meal kits. Like most meal kits, their whole thing is centered around delivering a kit of pre-portioned groceries (produce, spices, sauces, etc) and recipes every week. You choose how many meals you want (they have 5 options every week), and the portion size (2 servings or 4 servings.) The way they differ from most meal kit companies is that everything they deliver is plant based, AND is in reusable, zero-waste packaging.
@@ -37,13 +35,13 @@ Our first week was on August 2-8th - and we'd selected the Black Bean Sweet Pota
 The rubbermaid tub was quietly delivered to our porch. There were some reusable ice packs keeping things cool, and some insulated packages with ice packs for some of the more perishable stuff like prepared sauces, and vegetables in mesh produce bags.
 
 - ![](images/black-bean-sweet-potato-nachos.jpg)
-    
+
     Black Bean Sweet Potato Nachos
-    
+
 - ![](images/Massaman-Curry-crisper-kit.jpg)
-    
+
     Massaman Curry
-    
+
 
 ## Week Two
 
@@ -52,13 +50,13 @@ On week 2, August 9-15, we got the Herby Roasted Vegetable and Mexican inspired 
 I loved the pasta meal - and pasta can be so terribly boring, but this had a bit of everything, I roasted vegetables and tempeh while boiling pasta, and it all came together around the same time.
 
 - ![](images/Wild-Rice-Lettuce-Cups-on-a-plate-crisper-kits.jpg)
-    
+
     Lettuce Wraps
-    
+
 - ![](images/IMG_8332-768x1024.jpg)
-    
+
     herby roasted vegetables
-    
+
 
 ## Week Three
 
@@ -67,8 +65,8 @@ Week 3, August 16-23, we got the Moroccan Roasted Sweet Potatoes with Chickpeas 
 The Moroccan roasted sweet potato dish was full of herbs and refreshing, but also filling and hearty and just perfect for my usual inclination of a bit of everything in a bowl. I didn't get the millet hummus bowl until I ate everything together - there was roasted seasoned cauliflower, a salad with a citrus vinaigrette, hummus, tofu, cucumber, millet, and a red cabbage sauerkraut.
 
 - ![](images/Moroccan-Roasted-Sweet-Potatoes-with-Chickpeas-and-Date-Vinaigrette-and-the-Millet-Hummus-Nourish-Bowl.jpg)
-    
+
 - ![](images/Millet-Hummus-Nourish-Bowl.jpg)
-    
+
 
 Overall, we're on our fourth week getting Crisper Kit meals, and I'm really pleased with what we've been getting. They've all been really delicious, easy, and convenient.
