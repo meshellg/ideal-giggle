@@ -3,7 +3,7 @@ title: "Vegan Polish Xmas 2008"
 date: "2008-12-25"
 tags:
   - "polish-food"
-thumb:
+thumb: 2008-12-xmas.jpg
 ---
 
 It has certainly been a while. I'm currently in Edmonton celebrating christmas with my family. Celebrating christmas in my family is more of a Polish tradition then necessarily anything to do with religion, but then again, Poland is generally quite Catholic. My family is primarily interested in spending quality time together and EATING!!!
