@@ -3,7 +3,7 @@ title: "Recipes for this weeks FoodShare's DWS box."
 date: "2021-07-31"
 tags:
   - "foodshare"
-thumb: https://meshell.ca/blog/wp-content/uploads/2021/07/efo-riro-with-rice.jpg
+thumb: https://meshell.ca/blog/wp-content/uploads/2021/07/efo-riro-with-rice-500x250.jpg
 ---
 
 When [I posted about this box to twitter last week, it seemed to make some people upset.](/foodshare-dismantling-white-supremacy-box/) I don't know if it's the name that triggered their ire, but they complained about the price of this box and shared my post so that I could get a bunch of angry messages about it for no good reason. After thinking about it, I don't really take issue with the price or the contents on any level, but ultimately that's my call to make.
@@ -20,7 +20,7 @@ I found it really helpful to have a bunch of ideas for our box contents, and I d
 
 <img src="https://meshell.ca/blog/wp-content/uploads/2021/07/efo-riro-with-rice.jpg" width="50%" height="50%" alt="bowls of efo riro">
 
-<img src="/greens-and-biscuits-and-gravy-1024x768.jpg">
+- ![Greens and Biscuits and Gravy](greens-and-biscuits-and-gravy-1024x768.jpg)
 
 Some recipes we really enjoyed with our delivery last week were this [Sri Lankan Beet Root Curry](https://savoryspin.com/beetroot-curry-5/), and I used our bountiful beet greens to make roast beet and kale chips. I made [Okonomi Kitchen's Zucchini Pad Thai,](https://okonomikitchen.com/pad-thai-zucchini-noodles-with-jackfruit-chicken/) but with tofu and some added rice noodles - her sauce was stellar and easy to make with things we had in the house.I cut the broccoli leaves and some of the swiss chard chiffonade style and broccolini for a simple addition to a biscuit and onion gravy breakfast this weekend and it was just wonderful [using this recipe from Sweet Potato Soul.](https://sweetpotatosoul.com/vegan-southern-collard-greens/) I ended up using the rest of the swiss chard leaves in an [Meatless Efo Riro](https://jegbese.com/vegan-no-meat-nigerian-efo-riro/) recipe I love from Jegbese, and the swiss chard stems were made palatable by quick pickling them! I didn't manage to do anything with the mizuna other than throw it into a stir fry. I'll have to try it again another time.
 
