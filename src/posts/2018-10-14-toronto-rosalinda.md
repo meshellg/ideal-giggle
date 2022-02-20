@@ -3,7 +3,7 @@ title: "Toronto - Rosalinda"
 date: "2018-10-14"
 tags:
   - "toronto"
-thumbs: "jackfruit-pibil-min.jpg"
+thumbs: "2018-10-jackfruit-pibil-min.jpg"
 ---
 
 Rosalinda opened earlier this year in May, and I've been a handful of times. Sometimes just to grab a snack and a drink at the bar (totopos!), sometimes with friends, sometimes on a date, sometimes with a group. It's good for all of those things. And Rosalinda has turned into one of my favourite fancy-casual type places in the city.

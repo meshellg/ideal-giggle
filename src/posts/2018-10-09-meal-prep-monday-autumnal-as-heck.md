@@ -3,7 +3,7 @@ title: "Meal Prep Monday - Autumnal as Heck"
 date: "2018-10-09"
 tags:
   - "recipe"
-thumbs:
+thumbs: "2018-10-meal-prep.jpg"
 ---
 
 I've been getting into making meals in advance for the last few months, but haven't really been sticking too it too intently, I've mentioned Things2Eat a lot, but it's helped me learn how to cook more regularly - and making sure we have all the ingredients for recipes helps.

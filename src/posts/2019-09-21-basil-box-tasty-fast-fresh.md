@@ -4,7 +4,7 @@ date: "2019-09-21"
 tags:
   - "gluten-free"
   - "Toronto"
-thumbs: "basil-box-food.jpg"
+thumbs: "2019-09-basil-box.jpg"
 ---
 
 I had the opportunity to go to [The Basil Box](https://www.thebasilbox.com/food/) for the first time this week, and I really liked it. I checked out their website in advance and noticed they had a bunch of great looking vegan sauces, and a tasty looking tofu option - I was really happy to see how easy it was to order a vegan meal with them.

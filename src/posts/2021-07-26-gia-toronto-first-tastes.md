@@ -3,7 +3,7 @@ title: "Gia Toronto - First Tastes"
 date: "2021-07-26"
 tags:
   - "toronto"
-thumb:
+thumb: "2021-07-Gia-Toronto-Insalata-Panzanella-500x250.jpg"
 ---
 
 It feels like it's been a while since we've been excited about a new Toronto vegan friendly spot, and I just want to bottle this feeling up and share it with all of you.
