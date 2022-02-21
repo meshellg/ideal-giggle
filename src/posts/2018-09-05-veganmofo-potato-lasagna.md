@@ -3,7 +3,7 @@ title: "VeganMoFo - Potato Lasagna"
 date: "2018-09-05"
 tags:
   - "veganmofo"
-thumb: "DSC06779.jpg"
+thumb: "2018-09-potato-lasagna.jpg"
 ---
 
 There are a couple of things I've been especially looking forward to making this month, and one of those things was a potato lasagna. But not one where it just happens to be an ingredient, but one where the potato is really centred in the dish - where you take slices of potatoes, and pretend they are noodles. Maybe that's just a potato casserole, but I'm going to call it lasagna anyway.

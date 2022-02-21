@@ -3,7 +3,7 @@ title: "Vegan MoFo - Spicy and Sour Shredded Potatoes (Tu Do Si)"
 date: "2018-09-06"
 tags:
   - "vegan-mofo"
-thumb: "2018-09-tu-dau-tsi-min.jpg"
+thumb: "2018-09-tu-dau-tsi-min-768x469.jpg"
 ---
 
 Many years ago, I stayed in the student residence a few semesters of my university studies, and one of my roommates was an international masters student from northern China - she was studying chemistry and taking English, and we would talk about food when we'd run into each other in the common area.

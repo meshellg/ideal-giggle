@@ -3,7 +3,7 @@ title: "VeganMofo 2018 - Day Zero - A Month of Potatoes"
 date: "2018-08-31"
 tags:
   - "veganmofo"
-thumb: "2018-08-potato.png"
+thumb: "2018-08-potato.jpg"
 ---
 
 We travelled through Canadian potato country this summer - notably PEI and New Brunswick - which is not to say that other provinces don't grow potatoes, just that when I think of Canadian potatoes, I definitely think of PEI first. We went to potato museums, and ate french fries, and baked potatoes, and potatoes every which way and it was my scene.

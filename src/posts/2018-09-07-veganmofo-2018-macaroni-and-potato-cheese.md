@@ -3,7 +3,7 @@ title: "VeganMoFo 2018 - Macaroni and Potato cheese"
 date: "2018-09-07"
 tags:
   - "veganmofo"
-thumb: "2018-08-mac-and-potatoes-768x513.jpg"
+thumb: "2018-09-mac-and-potatoes-768x513.jpg"
 ---
 
 Have vegans gone too far? Cheese made from potatoes? It's clearly mayhem over here you know.
