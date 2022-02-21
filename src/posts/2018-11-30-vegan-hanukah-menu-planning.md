@@ -2,8 +2,8 @@
 title: "Vegan Hanukah Menu Planning"
 date: "2018-11-30"
 tags:
-  - "toronto"
-thumb: "2019-02-le-parloir-afternoon-tea-444x250.jpg"
+  - "holidays"
+thumb: "2019-11-latkes.jpg"
 ---
 
 ![](images/latkes.jpg)I spend a lot of time thinking up ideas for special events at our house - and I tend to go a bit overboard. We are a family of three, and very rarely, are we accompanied by my in-laws. They have additional dietary restrictions to consider that can be a bit more challenging to accommodate - non-vegan keto - so when we eat together, it takes a little bit of planning to make sure everyone has something to eat.

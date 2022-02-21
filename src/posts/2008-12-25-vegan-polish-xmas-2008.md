@@ -2,7 +2,7 @@
 title: "Vegan Polish Xmas 2008"
 date: "2008-12-25"
 tags:
-  - "polish-food"
+  - "holidays"
 thumb: 2008-12-xmas.jpg
 ---
 
