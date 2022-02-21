@@ -1,11 +1,9 @@
 ---
 title: "Vegan MoFo 2018 - Lets talk about fries."
 date: "2018-09-03"
-categories: 
-  - "vegan-mofo"
-tags: 
-  - "veganmofo-2018"
-thumbs: "homemade-fries.jpg"
+tags:
+  - "veganmofo"
+thumb: "2018-09-homemade-fries-768x576.jpg"
 ---
 
 So french fries are a common inside joke in veganism, because once upon a time, it was the only thing we could eat out and about – and of course, it’s still occasionally the case. Impassioned online and offline discussions have happened related to fries and whether they are vegan or not, if the oil is shared, or McDonalds’s fries in Canada vs the USA, and whether they are healthy or should be included in veganism at all.

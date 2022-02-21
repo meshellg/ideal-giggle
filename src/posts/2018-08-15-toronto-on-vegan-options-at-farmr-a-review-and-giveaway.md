@@ -1,13 +1,9 @@
 ---
 title: "Toronto, ON - Vegan options at Farm'r"
 date: "2018-08-15"
-categories: 
-  - "toronto-2"
-  - "vegan-food"
-tags: 
-  - "giveaway"
-  - "vegan-food"
-thumbs: "farmr-table.jpg"
+tags:
+  - "toronto"
+thumb: "2018-08-farmr-table-768x434.jpg"
 ---
 
 I recently had the opportunity to visit [Farm'r](https://farmr.ca/), a local procurement centring, seasonal, farm-to-table style restaurant on the Esplanade. They have a great covered patio outside, and bright cheerful indoor seating, with great lighting.

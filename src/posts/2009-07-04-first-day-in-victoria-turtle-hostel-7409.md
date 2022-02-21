@@ -1,5 +1,5 @@
 ---
-title: "First day in Victoria - Turtle Hostel 7/4/09"
+title: "First day in Victoria - Turtle Hostel"
 date: "2009-07-04"
 tags:
   - "victoria"

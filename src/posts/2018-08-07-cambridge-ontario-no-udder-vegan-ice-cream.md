@@ -2,7 +2,7 @@
 title: "Cambridge, Ontario - No Udder Vegan Ice Cream"
 date: "2018-08-07"
 tags: "Cambridge"
-thumbs: "2018-07-No-Udder-Cambridge.jpg"
+thumb: "2018-07-No-Udder-Cambridge.jpg"
 ---
 
 We visited Cambridge and Guelph last month and it was a lovely little drive and visit - I'm not sure how we ended up at No Udder in Cambridge, but I'm glad we did.

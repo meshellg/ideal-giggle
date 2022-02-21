@@ -1,12 +1,10 @@
 ---
 title: "Montreal, PQ - Antidote Bouffe Végane"
 date: "2018-08-21"
-categories: 
-  - "montreal"
-  - "travelling"
-  - "vegan"
-tags: 
+tags:
   - "roadtrip-2018"
+  - "montreal"
+thumb: 2018-08-Antidote-Bouffe-Végane-bagel-saumon-fume-vegan-tse.jpg
 ---
 
 We were passing through Montreal on a road trip recently, and wanted to try something new. Our usual stop [Sushi Momo](http://meshell.ca/blog/montreal-2016-sushi-momo/) wasn't open until evening, and we wanted something we could take with us to go, so we could arrive at our next destination with the option of eating lunch.

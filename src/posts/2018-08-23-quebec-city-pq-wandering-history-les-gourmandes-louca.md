@@ -1,13 +1,10 @@
 ---
 title: "Quebec City, PQ - Wandering, History, & Les Gourmandes Louca"
 date: "2018-08-23"
-categories: 
-  - "toronto-2"
-  - "travelling"
-  - "vegan-food"
-tags: 
+tags:
   - "roadtrip-2018"
-thumbs: "IMG_20180811_181535.jpg"
+  - "quebec city"
+thumb: 2018-08-IMG_20180811_181535-768x432.jpg
 ---
 
 While we were in Quebec City, we stayed at a lovely airbnb and enjoyed the sights and sounds of old Quebec. There are some incredible urban climbs in Quebec City, but thankfully you are rewarded by the  accompanying grand views of the city and the St. Lawerence river. We got a lot of exploring done - even during our relatively short visit.

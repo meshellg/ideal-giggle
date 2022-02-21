@@ -2,7 +2,7 @@
 title: "VeganMoFo 2018 - Potato Kibbeh"
 date: "2018-09-25"
 tags:
-  - "vegan-mofo"
+  - "veganmofo"
 thumb: "2018-10-rice-pudding-768x513.jpg"
 ---
 

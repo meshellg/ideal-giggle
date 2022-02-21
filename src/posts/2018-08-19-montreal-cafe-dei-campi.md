@@ -1,14 +1,10 @@
 ---
 title: "Montreal - Cafe Dei Campi"
 date: "2018-08-19"
-categories: 
+tags:
   - "montreal"
-  - "travelling"
-  - "vegan"
-tags: 
-  - "cafe-dei-campi"
   - "roadtrip-2018"
-thumbs: "cafe-dei-campi-everything.jpg"
+thumb: "2018-08-cafe-dei-campi-everything-768x451.jpg"
 ---
 
 I've talked about [Cafe Dei Campi before](http://meshell.ca/blog/montreal-2016-cafe-dei-campi/), but it's one of my favourite places to go to eat and have coffee in Montreal. We've gone there many many times since they opened in 2016, but only been to Montreal three times in that time. It's just wonderful every time. They make vegan pastries, but have dairy products for coffee, but also make a damn good soy latte.

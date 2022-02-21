@@ -1,15 +1,9 @@
 ---
 title: "Veganmofo 2018 - Baked Potato Soup"
 date: "2018-09-03"
-categories: 
-  - "potatoes"
-  - "recipe"
-  - "vegan-food"
-  - "vegan-mofo"
-tags: 
-  - "potato"
-  - "veganmofo-2018"
-thumbs: "fully-loaded-baked-potato-soup.jpg"
+tags:
+  - "veganmofo"
+thumb: "2018-09-fully-loaded-baked-potato-soup-768x513.jpg"
 ---
 
 I love baked potatoes, I love soup, I love baked potato soup. It's a creamy flavourful and thick soup that just feels like a warm hug on a cool day. Just waiting to be made in the fall as the days get cooler and shorter. But of course, it's September in Toronto and that means it's still just under 30 degrees celsius ([that's 80F if you're using it](https://www.vox.com/2015/2/16/8031177/america-fahrenheit)) so this soup is ahead of its time today, but I've been thinking about this soup for weeks and it just couldn't wait for another day.
@@ -26,7 +20,7 @@ The nice thing about a potato centred soup is that you really don't have to foll
 
 # Vegan Baked Potato Soup
 
-  
+
 ![Vegan Baked Potato Soup](images/fully-loaded-baked-potato-soup.jpg)  
 By meshell  
 A creamy flavourful and thick soup that just feels like a warm hug on a cool day.  
@@ -59,7 +53,7 @@ A creamy flavourful and thick soup that just feels like a warm hug on a cool day
 11. Remove from the heat.
 12. Ladle the soup into bowls, top with potato skins drizzle with non-dairy sour cream, sprinkle with vegan bacon bits, paprika, grated shreds, and chives.
 
-  
+
 Prep time: 45 minutes  
 Cook time: 30 minutes  
 Total time: 1 hour  
