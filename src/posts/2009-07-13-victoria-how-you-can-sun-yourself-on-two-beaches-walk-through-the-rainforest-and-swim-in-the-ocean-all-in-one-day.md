@@ -1,5 +1,5 @@
 ---
-title: "Victoria - How you can sun yourself on two beaches, walk through the rainforest, and swim in the ocean, all in one day."
+title: "Victoria - Rainforest, Beache, Everything"
 date: "2009-07-13"
 tags:
   - "victoria"

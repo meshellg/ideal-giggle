@@ -3,7 +3,7 @@ title: "Victoria - Galiano Island"
 date: "2009-07-19"
 tags:  
   - "victoria"
-thumb: 2009-07-Galiano-Island.jpg
+thumb: "2009-07-Galiano-Island.jpg"
 ---
 
 I don't know where to begin. I spent the weekend camping in Montague Harbour on [Galiano Island](http://www.galianoisland.com/), one of the Gulf Islands off of British Columbia.
