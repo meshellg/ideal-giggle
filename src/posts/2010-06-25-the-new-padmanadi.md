@@ -3,7 +3,7 @@ title: "The New Padmanadi"
 date: "2010-06-25"
 tags:
   - "edmonton"
-thumb: 2010-06-newpadmanadi.jpg
+thumb: 2010-06-padmanadi.jpg
 ---
 
 
