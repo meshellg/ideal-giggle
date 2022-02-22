@@ -1,5 +1,5 @@
 ---
-title: "Victoria - Rainforest, Beache, Everything"
+title: "Victoria - Rainforest, Beaches, Everything"
 date: "2009-07-13"
 tags:
   - "victoria"
