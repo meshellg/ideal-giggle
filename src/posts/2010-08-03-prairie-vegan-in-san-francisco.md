@@ -1,8 +1,9 @@
 ---
 title: "Prairie Vegan in San Francisco"
 date: "2010-08-03"
-categories:
+tags:
   - "san-francisco"
+thumb: 2010-08-Sanfransiscobridge.jpg
 ---
 
 I have one more stop before I get back to Edmonton. I’m on my way to San Francisco, and as usual, I’m trying to plan out the visit in advance. But unlike usual, I've failed the planning process, and am doing it on the plane, on the way (yes, that's right, I'm up in the air on a plane right this second). This trip will be more for sightseeing than for eating, probably similar to my trip to New York in 2008 (two restaurants, twelve “places of interest”) but I’ll have more time.  

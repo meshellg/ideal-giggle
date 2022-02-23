@@ -1,12 +1,12 @@
 ---
 title: "Souley Vegan, or... a reason to move to the Bay Area"
 date: "2010-08-05"
-categories:
+tags:
   - "san-francisco"
+thumb: 2010-08-souleyvegan.jpg
 ---
 
 I went to [Souley Vegan](http://souleyvegan.com/) in Oakland, California last night. What an amazing place to eat. The servers are super friendly, the food is ridiculously good, and I left feeling fuller than ever before, and still didn't finish everything on my plate. I was tempted to do an "after" photo to illustrate how little I ate, but it was just embarrassing.  
-
 
 [![corn bread](images/4862626454_88522a951d.jpg)](http://www.flickr.com/photos/prairiev/4862626454/ "corn bread by MeShellG, on Flickr")
 

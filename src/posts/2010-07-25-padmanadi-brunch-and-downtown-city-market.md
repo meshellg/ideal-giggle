@@ -4,7 +4,7 @@ date: "2010-07-25"
 tags:
   - "edmonton"
   - "farmers-market"
-thumb:
+thumb: 2010-07-padmanadibrunch.jpg
 ---
 
 After work this morning I hopped on the LRT, and sat at Credo Coffee with the other Early Birds waiting to swoop in on the Downtown Edmonton Farmers Market. I picked up a package of LimeGreens Sour Cream and Onion Kale Chips, and they were such a hit with the family (and pretty much everyone that's tried them.) J and I tried a cherry chocolate smoothie with hemp seeds, and it was delicious, such a nice flavour from the raw cocoa. Another beautiful day in Edmonton, and perfect for visiting the farmers market.  

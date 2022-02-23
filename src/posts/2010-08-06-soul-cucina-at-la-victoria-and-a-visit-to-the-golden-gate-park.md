@@ -3,7 +3,7 @@ title: "Soul Cucina at La Victoria and a Visit to the Golden Gate Park."
 date: "2010-08-06"
 tags:
   - "san-francisco"
-thumb: 2010-08-souleyvegan.jpg
+thumb: 2010-08-samovar.jpg
 ---
 
 I started my wandering early again, but finally ended up at the sfMOMA and the Yerba Buena area again. It was time to check out [Samovar](http://samovarlife.com/). My early lunch was the Tea Soup with braised tofu, and a pot of Golden Phoenix tea. It was surprisingly tasty. Surprisingly because the tea soup didn't look like much when I got it (though the veggies were a beautiful vibrant colour,) but it turned to be a really pleasant flavourful soup. I wasn't really conscious of the tea flavour, but there were subtle notes that were really appealing.

@@ -1,8 +1,9 @@
 ---
 title: "Edmonton's Saturday Farmer's Markets"
 date: "2010-07-18"
-categories:
+tags:
   - "farmers-market"
+thumb:
 ---
 
 Yesterday was a great example of how wonderful Edmonton is in the summertime. I woke up bright and early in the morning to make it to the City Center Farmer’s Market and was pleasantly surprised when upon looking out the window I saw something I hadn’t seen in a while… a clear blue sky and sunshine!  

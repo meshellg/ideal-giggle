@@ -1,8 +1,9 @@
 ---
 title: "Las Vegas Recap"
 date: "2010-08-02"
-categories:
+tags:
   - "las-vegas"
+thumb: 2010-07-donuts.jpg
 ---
 
 So the last few days in Vegas have been action packed. The conference is over and it went well. I'm excited to go again next year (maybe... probably.) The last two days have felt like a week. Most of my days were spent at speeches, and evenings were spent going out. I'm wondering when I'll catch up on my sleep. Not this week!  

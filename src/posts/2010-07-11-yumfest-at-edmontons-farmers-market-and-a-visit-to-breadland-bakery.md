@@ -3,6 +3,7 @@ title: "Yumfest at Edmonton's Farmers Market and a visit to Breadland Bakery."
 date: "2010-07-11"
 tags:
   - "edmonton"
+thumb: 2010-07-edmontonfarmersmarket.jpg
 ---
 
 Earlier this week a friend and I paid a visit to Breadland Bakery, in Oliver Square. Every time I've tried to go there (all two times) it's been closed. I've missed them by minutes. So it was nice to finally go in there, it's such a nice place inside. They have a wide variety of vegan bread and buns as well as gluten free baking. I tried the wheat free foccacia and a vegan chocolate chip cookie. The consensus was that both items were fabulous. The gluten free foccacia was tasty, moist and flavourful, and lacked a "gluten-free" aftertaste. The Chocolate Chip Cookie was crumbly and chewy, but broke in half before I could grab a picture of it in all it's glory. This was the best cookie I've had in a long time.  

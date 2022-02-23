@@ -1,15 +1,16 @@
 ---
 title: "Ronald's Donuts - Vegan Donuts in Las Vegas"
 date: "2010-08-03"
-categories:
+tags:
   - "las-vegas"
+thumb: 2010-07-donuts.jpg
 ---
 
 Well, yesterday was the day I finally went over to Ronald's Donuts after being in Las Vegas for nearly a week. There is one main thing I love about the place; it's totally normal. It's just a random coffee shop, that just happens to have vegan donuts. Vegans and non-vegans alike happily munch on them. It shows how good vegan baking can be, and how unnecessary certain ingredients are. It's been voted the best donut shop in Vegas, with no qualifiers. And in case you are wondering are these donuts too good to be true, like I was, check out the [Quarrygirl blog post](http://www.quarrygirl.com/2009/09/24/ronalds-donuts-tests/) about the lab tests commissioned by Ray Ortega from [Sun Flower Baking California](http://www.sunflourbaking.com/). (in short... they really don't have eggs in them.)
 
 [![Ronald's Donuts](images/4855494130_12b85c3778.jpg)](http://www.flickr.com/photos/prairiev/4855494130/ "Ronald's Donuts by MeShellG, on Flickr")
 
-Shortly after I got there (on the 203 bus from the Strip, by the way. [Those instructions](http://blog.prairievegan.com/2010/07/prairie-vegan-in-vegas.html) actually worked!) a couple from Germany walked in and asked "Are all these donuts vegan?" then two tattooed girls from the Rollercon walked in and said, "Which are your vegan donuts?" While sitting across from me were three seniors, drinking coffee and chatting. Such a interesting mix of people in one place. In case you're wondering, it's usually the top two rows that are vegan.
+Shortly after I got there (on the 203 bus from the Strip, by the way. A couple from Germany walked in and asked "Are all these donuts vegan?" then two tattooed people from the Rollercon walked in and said, "Which are your vegan donuts?" While sitting across from me were three seniors, drinking coffee and chatting. Such a interesting mix of people in one place. In case you're wondering, it's usually the top two rows that are vegan.
 
 [![Just FYI, this is even tastier than it looks](images/4854874401_cd7b30f5f1.jpg)](http://www.flickr.com/photos/prairiev/4854874401/ "Ronald's Donuts by MeShellG, on Flickr")
 
