@@ -6,16 +6,9 @@ tags:
 thumb: 2010-06-padmanadiinside.jpg
 ---
 
-[  
-![Inside at Padmanadi](images/4748588776_be0579f9fa.jpg)](http://www.flickr.com/photos/prairiev/4748588776/ "Inside at Padmanadi by MeShellG, on Flickr")
-
 It's been a long time since I've ordered something new to me at Padmanadi, but it's been a Padmanadi couple of days, since friends have wanted to see the new location, and who better to come along than me!? The first few visits years ago consisted of ordering a new thing on the menu every time, then I got into a routine of familiar favourites. Well, with the slightly new menu came new opportunities. Yesterday three of us tried three items that were new to us:  
 
 **The Hot and Sour Soup**  
-
-[![Hot and Sour Soup](images/4748517586_9945a297bf_m.jpg)](http://www.flickr.com/photos/prairiev/4748517586/ "Hot and Sour Soup by MeShellG, on Flickr")
-
-
 
 I'm just going to come out and say it. I didn't like the Hot and Sour soup. I loved the cilantro on top, and it was still "good" but there was something about the flavour I just didn't enjoy. It comes with veggie ham in it, and copious amounts of starch.
 
@@ -23,17 +16,10 @@ As I was eating it, I kept thinking... Oriental Veggie House's Hot and Sour soup
 
 **The Spicy Coconut Eggplant**  
 
-[![Spicy Coconut Eggplant](images/4747876449_3b4bcd1850_m.jpg)](http://www.flickr.com/photos/prairiev/4747876449/ "Spicy Coconut Eggplant by MeShellG, on Flickr")
-
-
-
 This was amazing. It has a little pepper beside it on the menu, but It wasn't very spicy. Although the spice/pain receptors in my tongue could be dulled from overuse. One out of the three of us didn't like it, and thought it was spicy and too squishy, but me and  else thought it was just awesome all around. A lightly spicy coconutty spicy flavour permeated the eggplant and made every bite equally tasty.  
 I think it might be a new favourite.  
 
 **Mongolian Chicken**  
-
-[![Mongolian Chicken](images/4748517502_21813cdcd0_m.jpg)](http://www.flickr.com/photos/prairiev/4748517502/ "Mongolian Chicken by MeShellG, on Flickr")
-
 
 This was so impressive. Our omnivorous companion LOVED this dish. She's 12 and the next day told all of her friends about it. I think that's really saying something. The texture and flavour were great, and very true to the real thing. Sweet and tangy sauce with a hint of spice. The menu say's this dish comes on a bed of crispy noodles, but ours did not, but it didn't matter much as it disappeared all the same.  
 

@@ -3,7 +3,7 @@ title: "Cheesecake from Remedy Edmonton... again"
 date: "2010-06-01"
 tags:
 - Edmonton
-thumb: 2010-06-remedycheese.jpg
+thumb: 2010-06-remedycheesecake.jpg
 ---
 
 It was a cold terrible day for CityChase on Saturday. I finally experienced what my friend calls "Vancouver Winter," where there are never enough layers to protect you from the humidity, rain and sleet, and the only escape is going inside. But the event ended on a positive note, it warmed up slightly, and my fingers regained feeling, so that was nice.

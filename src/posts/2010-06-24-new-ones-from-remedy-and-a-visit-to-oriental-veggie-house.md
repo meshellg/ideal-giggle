@@ -6,7 +6,6 @@ tags:
 thumb: 2010-06-veggieduckovh.jpg
 ---
 
-
 It's been hard to go out and eat lately with my work schedule and other commitments, but finally, yesterday I visited Remedy. New (to me) flavours of cheesecake: chocolate banana (no peanut butter) and lemon raspberry. When they brought us the slices, I thought, whoa, the chocolate banana is going to be so delicious, and didn't give enough credit to the lemon raspberry.  
 
 Looks can be deceiving. I'm not going to say I disliked the chocolate banana, because that wouldn't be true, only that I felt like eating something tart, and the lemon raspberry was perfect to pacify that.  
