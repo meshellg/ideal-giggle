@@ -1,12 +1,9 @@
 ---
 title: "Stratford, Ontario - The Planet Diner"
 date: "2018-06-17"
-categories:
-  - "travelling"
 tags:
-  - "gluten-free-2"
+  - "travelling"
   - "stratford"
-  - "the-planet-diner"
 thumb: "2018-06-the-planet-diner-interior.jpg"
 ---
 

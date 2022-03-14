@@ -3,7 +3,7 @@ title: "Famoso Pizza - Vegan options"
 date: "2010-05-12"
 tags:
   - "edmonton"
-thumb: 2010-05-Famoso.jpg
+thumb: 2010-05-FamosoPizza.jpg
 ---
 
 If you think I go out to eat nearly everyday... you'd be right. Since I've been in Edmonton for less than two weeks, seems like people want to spend time with me. It's been really nice to hang out with my old friends (and some new ones) and check out some of the places I never got around to visiting in the past. I'm looking forward to using the VOA Vegan and Vegetarian Diner's guide to find other hidden treasures.  

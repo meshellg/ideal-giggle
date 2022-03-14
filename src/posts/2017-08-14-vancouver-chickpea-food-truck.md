@@ -1,10 +1,10 @@
 ---
 title: "Vancouver - Chickpea Food Truck"
 date: "2017-08-14"
-categories:
+tags:
   - "travelling"
   - "vancouver"
-thumbs: "2017-08-chickpea-food-truck-vancouver-falafal-plate.jpg"
+thumb: "2017-08-chickpea-food-truck-vancouver-falafal-plate.jpg"
 ---
 
 Back when we were in Vancouver we were staying close to Coal Harbour, there were several options within walking distance of our hotel, and plenty of vegan delivery options too.
