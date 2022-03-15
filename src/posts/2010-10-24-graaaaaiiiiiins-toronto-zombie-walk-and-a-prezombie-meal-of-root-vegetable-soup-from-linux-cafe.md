@@ -2,7 +2,7 @@
 title: "Graaaaaiiiiiins - Toronto Zombie Walk and a prezombie meal of Root Vegetable Soup from Linux Cafe"
 date: "2010-10-24"
 tags:
--"toronto"
+- "toronto"
 thumb: 2010-10-ZombieStartrek.jpg
 ---
 
