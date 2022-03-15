@@ -1,8 +1,7 @@
 ---
 title: "Toronto: 3rd Annual Totally Fabulous Vegan Bake-Off and Nuit Blanche!"
 date: "2010-10-04"
-tags:
-  - "toronto"
+tags: "toronto"
 thumb: 2010-10-Vegan-BakeOff.jpg
 ---
 

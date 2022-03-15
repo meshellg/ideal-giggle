@@ -7,7 +7,6 @@ tags:
 thumb: 2010-10-kingscafe.jpg
 ---
 
-
 I finally went to [King's Cafe](http://www.kingscafe.com/) (192 Augusta Ave) today after multiple recommendations from other people. I was in the neighbourhood after grabbing a soy latte from Dark Horse Espresso Bar so it made sense to head over to Kensington Market to grab a bite to eat.  
 
 [![The Soy Fritters with Curry Rice from King's Cafe](images/5055793720_df8af97aee.jpg)](http://www.flickr.com/photos/prairiev/5055793720/ "The Soy Fritters with Curry Rice from King's Cafe by MeShellG, on Flickr")

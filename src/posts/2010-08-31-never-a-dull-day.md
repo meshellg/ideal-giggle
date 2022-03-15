@@ -1,8 +1,7 @@
 ---
 title: "Never a dull day."
 date: "2010-08-31"
-tags:
-  - "toronto"
+tags: "toronto"
 thumb: 2010-08-bakesale.jpg
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: "Vegan MoFo: Coming soon! And Stuffed Collard Green Rolls with Black Rice mmmm."
 date: "2010-10-19"
-tags:
-  - "home-cooking"
+tags: "home-cooking"
 thumb: 2010-10-collards.jpg
 ---
 

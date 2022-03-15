@@ -2,7 +2,7 @@
 title: "First Day in Toronto - Cruda Cafe, Gourmet Vegetarian Restaurant, and a Vegan Danish Bakery"
 date: "2010-08-22"
 tags:
-  - "toronto"
+- "toronto"
 thumb: 2010-08-vegandanishbakery.jpg
 ---
 

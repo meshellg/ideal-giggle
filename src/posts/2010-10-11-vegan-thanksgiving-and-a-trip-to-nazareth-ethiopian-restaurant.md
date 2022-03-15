@@ -1,8 +1,7 @@
 ---
 title: "Vegan Thanksgiving and a Trip to Nazareth Ethiopian Restaurant"
 date: "2010-10-11"
-tags:
-  - "home-cooking"
+tags: "home-cooking"
 thumb: 2010-10-cranberries.jpg
 ---
 

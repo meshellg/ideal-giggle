@@ -1,8 +1,7 @@
 ---
 title: "It's good to have friends."
 date: "2010-09-28"
-categories:
-  - "home-cooking"
+tags: "home-cooking"
 thumb: 2010-09-seitan.jpg
 ---
 

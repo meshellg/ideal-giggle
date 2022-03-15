@@ -1,8 +1,7 @@
 ---
 title: "Vegan MoFo: 30 Days of Vegan Travel - Day Two - Toronto, Ontario, Canada"
 date: "2010-11-02"
-tags:
-  - "toronto"
+tags: "toronto"
 thumb: 2010-11-Toronto.jpg
 ---
 

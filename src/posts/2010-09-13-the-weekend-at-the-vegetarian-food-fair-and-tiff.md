@@ -1,8 +1,7 @@
 ---
 title: "The Weekend at the Vegetarian Food Fair (and TIFF!)"
 date: "2010-09-13"
-tags:
-  - "toronto"
+tags: "toronto"
 thumb: 2010-09-VFF.jpg
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: "Hanlan's Point and Vegetarian Haven"
 date: "2010-09-02"
-tags:
-  - "toronto"
+tags: "toronto"
 thumb: 2010-09-clothingoptional.jpg
 ---
 

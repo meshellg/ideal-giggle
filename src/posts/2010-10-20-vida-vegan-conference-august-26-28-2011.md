@@ -1,8 +1,7 @@
 ---
 title: "Vida Vegan Conference August 26-28 2011"
 date: "2010-10-20"
-tags:
-  - "portland"
+tags: "portland"
 thumb: 2010-10-VVC.jpg
 ---
 
