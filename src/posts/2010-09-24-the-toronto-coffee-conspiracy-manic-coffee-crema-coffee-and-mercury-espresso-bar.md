@@ -2,8 +2,8 @@
 title: "The Toronto Coffee Conspiracy - Manic Coffee, Crema Coffee and Mercury Espresso Bar"
 date: "2010-09-24"
 tags:
-  - "coffee"
-  - "toronto"
+- "coffee"
+- "toronto"
 thumb: 2010-09-cremacoffee.jpg
 ---
 

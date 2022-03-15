@@ -2,8 +2,8 @@
 title: "Vegan MoFo: 30 Days of Vegan Travel - Day 5 - Charleston, SC - The Holy City"
 date: "2010-11-05"
 tags:
-  - "charleston"
-  - "south-carolina"
+- "charleston"
+- "south-carolina"
 thumb: veganmofo2010.jpg
 ---
 

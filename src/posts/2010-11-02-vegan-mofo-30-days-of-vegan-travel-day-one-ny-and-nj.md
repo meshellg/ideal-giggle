@@ -2,9 +2,9 @@
 title: "Vegan MoFo: 30 Days of Vegan Travel - Day One: NY and NJ"
 date: "2010-11-02"
 tags:
-  - "new-jersey"
-  - "new-york"
-  - "vegan-mofo"
+- "new-jersey"
+- "new-york"
+- "vegan-mofo"
 thumb: 2010-11-NewYork.jpg
 ---
 

@@ -2,8 +2,8 @@
 title: "Vegan MoFo: 30 Days of Vegan Travel - Day Ate - Washington, DC - Looking for The American Experience"
 date: "2010-11-09"
 tags:
-  - "vegan-mofo"
-  - "washington-dc"
+- "vegan-mofo"
+- "washington-dc"
 thumb: veganmofo2010.jpg
 ---
 

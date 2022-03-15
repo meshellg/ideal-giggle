@@ -2,8 +2,8 @@
 title: "Vegan Mofo: Day 2.5 - Not Following a Theme - Quinoa Crusted Chikn
 date: "2010-11-04"
 tags:
-  - "home-cooking"
-  - "vegan-mofo"
+- "home-cooking"
+- "vegan-mofo"
 thumb: 2010-11-quinoacutlets.jpg
 ---
 

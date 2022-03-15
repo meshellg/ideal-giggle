@@ -2,8 +2,8 @@
 title: "First visit to King's Cafe"
 date: "2010-10-05"
 tags:
-  - "coffee"
-  - "toronto"
+- "coffee"
+- "toronto"
 thumb: 2010-10-kingscafe.jpg
 ---
 

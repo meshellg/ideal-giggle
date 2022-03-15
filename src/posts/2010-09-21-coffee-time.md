@@ -2,7 +2,7 @@
 title: "Coffee Time."
 date: "2010-09-21"
 tags:
-  - "toronto"
+- "toronto"
 thumb: 2010-08-beingsneaky.jpg
 ---
 

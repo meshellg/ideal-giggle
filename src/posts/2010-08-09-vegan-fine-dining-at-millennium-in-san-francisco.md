@@ -2,10 +2,7 @@
 title: "Vegan fine dining at Millennium in San Francisco."
 date: "2010-08-09"
 tags:
-  - "millennium"
-  - "prix-fixe"
   - "san-francisco"
-  - "vegan-food"
 thumb: 2010-08-millenium.jpg
 ---
 

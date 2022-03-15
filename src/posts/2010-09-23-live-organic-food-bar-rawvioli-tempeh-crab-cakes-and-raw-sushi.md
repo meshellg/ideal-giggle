@@ -2,7 +2,7 @@
 title: "Live Organic Food Bar - Rawvioli, Tempeh Crab Cakes, and Raw Sushi."
 date: "2010-09-23"
 tags:
-  - "toronto"
+- "toronto"
 thumb: 2010-09-outside.jpg
 ---
 

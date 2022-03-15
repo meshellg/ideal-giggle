@@ -2,9 +2,9 @@
 title: "Vegan MoFo: 30 Days of Vegan Travel - Jour Trois - New Orleans, Louisiana - Eating Vegan in the Big Easy."
 date: "2010-11-04"
 tags:
-  - "louisiana"
-  - "new-orleans"
-  - "Vegan-MoFo"
+- "louisiana"
+- "new-orleans"
+- "Vegan-MoFo"
 thumb: 2010-11-NewOrleans.jpg
 ---
 
