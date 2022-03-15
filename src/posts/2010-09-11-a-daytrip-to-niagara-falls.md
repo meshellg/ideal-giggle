@@ -1,8 +1,7 @@
 ---
 title: "A Daytrip to Niagara Falls"
 date: "2010-09-11"
-tags:
-  - "niagara-falls"
+tags: "niagara-falls"
 thumb: 2010-09-niagarafalls.jpg
 ---
 

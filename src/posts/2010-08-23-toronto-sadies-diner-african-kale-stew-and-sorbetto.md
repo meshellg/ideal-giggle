@@ -1,8 +1,7 @@
 ---
 title: "Toronto: Sadie's Diner, Kale Stew, and Sorbetto!"
 date: "2010-08-23"
-tags:
-  - "toronto"
+tags: "toronto"
 thumb: 2010-08-corn.jpg
 ---
 

@@ -1,9 +1,7 @@
 ---
 title: "Vegan MoFo: 30 Days of Vegan Travel - Day 6 - Staycation - in Toronto, Ontario"
 date: "2010-11-07"
-tags:
-  - "toronto"
-  - "vegan-mofo"
+tags: "toronto"
 thumb: 2010-11-staycationtoronto.jpg
 ---
 

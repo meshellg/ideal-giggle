@@ -26,41 +26,27 @@ We were planning a trip to Montreal by bus or train that same week, so I ordered
 
 Ordering was straightforward - I just send them a Facebook message with what I wanted to get. Delivery came a bit later in the evening than we had expected - but it was also the day of some pretty serious blizzard activity in Ontario so I won't fault them for the issues with the weather, I'm really impressed with their delivery area. We paid with E-Transfer, but they will also take credit card payment over the phone or cash on delivery.
 
-[![Hungry Vegan - Broccoli Stir-fry box](images/24936747513_b66033e82b_c.jpg)](https://www.flickr.com/photos/prairiev/24936747513/in/album-72157664880319969/ "Hungry Vegan - Broccoli Stir-fry box")
-
 My first taste of Hungry Vegan was the next morning when I ate the **Broccoli Stir-Fry Box** for breakfast in the streetcar. The boxes are convenient and compostable. The box was full of tender crisp stir fried veggies (predominantly broccoli, carrots, and zucchini.) on top of rice noodles with a subtly sweet sesame garlic sauce. I didn't like the noodles (I rarely do - especially when they seem to jump out of the box and land on my sweater... okay, okay, that's my fault...), but loved the seasoned vegetables so it was great to be able to grab and go with this dish when I'd otherwise have skipped a meal out of laziness or avoidance.
 
 I had ordered two Stir-fry boxes so JC could have one too - and he enjoyed it (except for the carrots, but again, we all have our food aversions.)
-
-[![hungry Vegan - broccoli salad](images/25174938519_33bc3fcb36_c.jpg)](https://www.flickr.com/photos/prairiev/25174938519/in/album-72157664880319969/ "hungry Vegan - broccoli salad")
-<script src="//embedr.flickr.com/assets/client-code.js" async charset="utf-8"></script>
 
 I couldn't get enough of the **Creamy Broccoli Salad**. It had red cabbage, carrots, cranberries, raisins, walnuts and a housemade soy-free mayo. I ordered two the first time with the intention of sharing them with JC, but pretty much ate both of them myself. Once at the Bus station, and once in bed on the first night we were in Montreal.
 
 The falafel was weird - and I knew it wouldn't be what I was used to because it was baked and not deep fried - but it provided some quick and easy sustenance when we got to the hotel late that night. 
 
-[![Falafel Box](images/25175007379_de8e300f99_c.jpg)](https://www.flickr.com/photos/prairiev/25175007379/in/album-72157664880319969/ "Untitled")
-
 **What's in the box:** Baked Falafel Balls, Romaine, carrot, cabbage, cucumber, house pickled turnip, house pickled beet w garlic aioli and roasted red pepper hummus.
 
 I've ordered three times so far, mostly sticking to my favourites and a couple of different meal boxes here and there. Two extra boxes and salads I've really liked have been the **Blueberry Crumble Steel Cut Oats Box** and the **MexiQuinoa Salad.**
 
-[![Hungry Vegan - Blueberry Steel Cut Oats with coconut yogurt](images/25582030771_bbbe4aa045_c.jpg)](https://www.flickr.com/photos/prairiev/25582030771/in/album-72157664880319969/ "Hungry Vegan - Blueberry Steel Cut Oats with coconut yogurt")
-<script src="//embedr.flickr.com/assets/client-code.js" async charset="utf-8"></script>
-
 **What's in the box?** Steel cut oats, chia seeds, hemp hearts, almond milk, Hungry Vegan granola, blueberries and a side of vanilla coco yoghurt. The whole mix was great - and the blueberries were so nice and plump. I felt full and satisfied until well into mid-afternoon after eating the whole thing.
 
 The Blueberry Crumble Steel Cut Oats box also encouraged me to order 16oz of their Coconut Yogurt with my next delivery - if you're looking for awesome coconut yogurt - they've got it!
-
-[![Hungry Vegan Meal Delivery - MexiQuinoa](images/25972809281_058f5fa018_c.jpg)](https://www.flickr.com/photos/prairiev/25972809281/in/album-72157664880319969/ "Hungry Vegan Meal Delivery - MexiQuinoa")
 
 **What's in this?** Quinoa, black beans, bell pepper, tomato, corn, red onion, avocado, parsley, mexi lime dressing.
 
 It is oil free and not heavily seasoned, which I think is an asset - you can turn this into whatever you want it to be with minimal effort. I loved the variety of chopped vegetables and the mix of quinoa and black beans. I like things pretty spicy, so I added some chili peppers and some braggs to this, but you could eat it as is and not miss out on anything.
 
 On one of my most recent orders - they had a **Mixed hummus and Veggie box** which was SO GREAT.
-
-[![IMG_20160323_224029](images/25390283693_184461a614_c.jpg)](https://www.flickr.com/photos/prairiev/25390283693/in/datetaken/ "IMG_20160323_224029")
 
 It came with a variety of chopped veggies (like red and green and orange peppers, cucumber slices, and carrots) and 4ozs of each of their hummus - roasted red pepper, roasted beet, and spicy pickle hummus. Now you might think - can't you just make that yourself? Sure I probably could - but aside from the best of intentions, I probably wouldn't ever quite get it together enough to do it. So having someone else wash and chop easy to munch on veggies with some fresh hummus, was perfect.
 

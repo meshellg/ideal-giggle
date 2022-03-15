@@ -1,8 +1,7 @@
 ---
 title: "Fun in Toronto - Magic Oven (again), Sneaky Dee's (again!), More TIFF stuff, and Kale Restaurant."
 date: "2010-09-17"
-tags:
-- "toronto"
+tags: "toronto"
 thumb: 2010-09-TheHour.jpg
 ---
 

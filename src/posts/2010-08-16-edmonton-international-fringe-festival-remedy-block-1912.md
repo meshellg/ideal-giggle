@@ -1,8 +1,7 @@
 ---
 title: "Edmonton International Fringe Festival, Remedy, Block 1912"
 date: "2010-08-16"
-tags:
-  - "edmonton"
+tags: "edmonton"
 thumb:
 ---
 
