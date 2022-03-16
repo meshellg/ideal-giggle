@@ -4,7 +4,7 @@ date: "2015-08-01"
 tags:
   - "edmonton"
   - "roadtrip-2014"
-thumb: "Loma-House-Edmonton-Bento-Box-800by600.jpeg"
+  thumb: "2015-08-Loma-House-Edmonton-Bento-Box.jpeg"
 ---
 
 I'm now a year behind on these posts about our 2014 road trip across North America, but I'm going to keep chugging along. They're stories I want to tell, there are pictures I want to share, and they are memories I want to remember later. [You can see some of the past & present posts on this lovely map on Pinterest](https://www.pinterest.com/meshellg/roadtrip-2014/).

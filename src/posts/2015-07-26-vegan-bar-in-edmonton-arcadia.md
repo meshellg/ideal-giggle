@@ -3,7 +3,7 @@ title: "Vegan Bar in Edmonton - Arcadia"
 date: "2015-07-26"
 tags:
   - "edmonton"
-thumb: "arcadia.jpg"
+thumb: "2015-07-arcadia.jpg"
 ---
 
 On my most recent visit to Edmonton (earlier this year), I had the opportunity to visit [Arcadia](http://www.arcadiayeg.com/), which is this great vegan bar just on the new fun street of 124. Over the past few years, 124th has really expanded in terms of vegan offerings, starting up with [Clever Rabbit](http://meshell.ca/blog/breakfast-at-home-and-clever-rabbit-roadtrip-2014/), and one of the first homes of [Sailin' On Vegan Food Truck](http://sailinon.ca/) (at the [124 Grand St Market](http://124grandmarket.com/).)

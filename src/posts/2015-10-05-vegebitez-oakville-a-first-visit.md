@@ -3,7 +3,7 @@ title: "Vegebitez - Oakville - A first visit"
 date: "2015-10-05"
 tags:
   - "oakville"
-thumb: "Vegebitez.jpg"
+thumb: "2015-10-vegebitez.jpg"
 ---
 
 We went and visited [Happily Ever Esther Farm Sanctuary](http://www.happilyeveresther.ca/) this weekend, home to the famous [Esther the Wonder Pig](http://www.estherthewonderpig.com/) herself, and on the way back home to Toronto, we stopped over in Oakville to visit Vegebitez, a new vegan and gluten free restaurant.

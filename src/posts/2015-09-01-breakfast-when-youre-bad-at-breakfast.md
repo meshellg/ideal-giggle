@@ -3,7 +3,7 @@ title: "Breakfast when you're bad at breakfast."
 date: "2015-09-01"
 tags:
   - "vegan-mofo"
-thumb: "croissant-and-kombucha.jpg"
+thumb: "2015-09-croissant-and-kombucha.jpg"
 ---
 
 I'm participating in VeganMofo 15 this year, and going to try and follow along with some of the prompts. I did a [little intro post](http://meshell.ca/blog/vegan-mofo-2015-starts-tomorrow/) yesterday, and I'm looking forward to e-meeting (or IRL meeting) more of you as the month progresses.

@@ -3,7 +3,7 @@ title: "Recreate a meal from your childhood - #VeganMoFo - Leniwe Pieroshki"
 date: "2015-09-03"
 tags:
   - "vegan-mofo"
-thumb:
+thumb: broccoliweb.jpg
 ---
 
 Another day, another Vegan MoFo Prompt - recreate a meal from your childhood. Well. When I was a little girl, one of my favourite things to eat were Leniwe Peiroshki (pronounced \[by me\]: Leh-niv-eh Pyeh-rosh-ki, translated = Lazy Perogies). The name is misleading as it wasn't really that easy to prepare (though still probably easier than making perogies.) But it's a great way to use potatoes, if for some reason you had some left over (which I don't understand, but whatever.)

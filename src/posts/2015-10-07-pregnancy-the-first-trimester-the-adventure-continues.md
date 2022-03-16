@@ -3,7 +3,7 @@ title: "Pregnancy - The First Trimester - The Adventure Continues"
 date: "2015-10-07"
 tags:
   - "vegan-pregnancy"
-thumb: "sprout-316127_640.jpg"
+thumb: "2015-10-sprout.jpg"
 ---
 
 I've been writing and rewriting this for the last few weeks, and I'm still not so sure what to say beyond how happy and excited I am about the next stage in this adventure called life. It's still kind of surreal to think that we will have a new member of the family next year. No matter how I'm feeling, I can't help but feel this incredible power when I take on my day, my body is literally building another future human being right now. There is something profoundly beautiful, fascinating, exciting, and awe inspiring about that. And I can't wait to meet them. Really. I can't wait. But I suppose I have to, so in the meantime, I'll just focus on taking the best care of myself I can.

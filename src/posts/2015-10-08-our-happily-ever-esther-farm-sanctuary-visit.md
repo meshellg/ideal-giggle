@@ -4,7 +4,7 @@ date: "2015-10-08"
 tags:
   - "ontario"
   - "sanctuary"
-thumb: "Esther-Farm-Sanctuary.jpg"
+thumb: "2015-10-Esther-Farm-Sanctuary.jpg"
 ---
 
 This weekend we went and visited [Happily Ever Esther Farm Sanctuary](http://www.happilyeveresther.ca/) in Campbellville, Ontario. It's only about an hour and a half west of Toronto, and the drive is quite beautiful (especially because you get to go near the escarpment, and because all the trees are painted with red and gold and green.)
