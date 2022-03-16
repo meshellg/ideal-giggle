@@ -6,7 +6,7 @@ tags:
 thumb: "2021-10-mexhico-500x250.jpg"
 ---
 
-[Continuing our trip home from North Bay](https://meshell.ca/blog/north-bay-roadtrip-north-star-diner/), and past the [2.5 Provincial Parks](https://meshell.ca/blog/parks-and-food-trucks/) we'd end up visiting, we passed through Huntsville and charged our car for a few minutes and popped into the food coop in Huntsville I had wanted to visit for a while, which was unfortunately an abysmal experience! But on the bright side, I know what to avoid in the future.
+[Continuing our trip home from North Bay](/north-bay-roadtrip-north-star-diner/), and past the [2.5 Provincial Parks](/parks-and-food-trucks/) we'd end up visiting, we passed through Huntsville and charged our car for a few minutes and popped into the food coop in Huntsville I had wanted to visit for a while, which was unfortunately an abysmal experience! But on the bright side, I know what to avoid in the future.
 
 The food highlight of the afternoon was stopping into Mexhico in Barrie. Now, we've been to Barrie before, and we've been to Valiant's (and before when it was Boon Burger), we've been to the Lazy Tulip, the Vegan Pantry, and picked up TJ's Pizza and Curry in a Hurry, and they've all been good to great in different ways. We even ate at The Local Gastropub, which was the previous tenant of Mexhico's current location. Over all, I always feel like Barrie is a great destination for vegans, but at the moment, Mexhico is my favourite of them all and I'm looking forward to returning for another visit.
 
