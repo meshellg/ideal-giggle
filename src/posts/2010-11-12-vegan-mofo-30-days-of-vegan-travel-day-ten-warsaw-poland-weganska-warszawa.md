@@ -37,12 +37,11 @@ I do not drink milk - nie pije mleka - (nyeah piyeh mleka I do not eat: - Nie je
 - eggs - jajek - (yayek)
 - cheese - sera - (serah)
 
-Yes - Tak - (tahk) No - Nie - (neh) Please - Prosze - (prosh-eh) Thank you - Dziekuje - (dzhehnkooyeh)
+Yes - Tak - (tahk) No - Nie - (neh) Please - Prosze - (prosh-eh) Thank you - Dziekuje - (dzhenkooyeh)
 
 You can find a variety of phrase guides on the internet, [this one](http://www.zem.co.uk/polish/basicvoc.htm) is nice and simple, and printable.
 
 **Transit**
-
 
 Zarzad Transportu Miejskiego (ZTM) [PL](http://www.ztm.waw.pl/) [ENG](http://www.ztm.waw.pl/index.php?c=126&l=2) - The Public Transit authority of Warsaw. They are helpful and translate their site into Russian, English and German (just click the appropriate country flag), and have a trip planner.
 
