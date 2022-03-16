@@ -2,7 +2,7 @@
 title: "Vegan MoFo 2018 - Potato Pancakes"
 date: "2018-09-11"
 tags:
-  - "veganmofo"
+  - "vegan-mofo"
 thumb: "2019-11-latkes.jpg"
 ---
 

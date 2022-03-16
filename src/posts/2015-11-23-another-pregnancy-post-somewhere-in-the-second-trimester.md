@@ -3,7 +3,7 @@ title: "Another Pregnancy Post. Somewhere in the Second Trimester"
 date: "2015-11-23"
 tags:
   - "pregnancy"
-thumb: "Bath-time.jpg"
+thumb: 2015-11-Bath-time.jpg
 ---
 
 Well, as some of you know, I'm pregnant, and if you want to read about the fun of the [First Trimester, it's over here](/pregnancy-the-first-trimester-the-adventure-continues/).

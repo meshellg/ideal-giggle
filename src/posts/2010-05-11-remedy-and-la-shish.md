@@ -1,7 +1,7 @@
 ---
 title: "Remedy and La Shish"
 date: "2010-05-11"
-tags: Edmonton
+tags: "edmonton"
 thumb:
 ---
 

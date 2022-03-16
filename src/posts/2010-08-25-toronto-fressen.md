@@ -3,7 +3,6 @@ title: "Toronto: Fressen"
 date: "2010-08-25"
 tags:
 - "toronto"
-- "fine-dining"
 thumb: 2010-08-fressen.jpg
 ---
 

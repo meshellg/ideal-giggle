@@ -4,7 +4,6 @@ date: "2017-10-11"
 tags:
   - "recipe"
   - "vegan-mofo"
-  - "polish-vegan-food"
 thumb: "2010-10-Cauliflower-and-breadcrumbs.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "Lazy Vegan Friday - Vegan Egg from Follow Your Heart"
 date: "2016-01-01"
 tags:
   - "lazy-vegan-friday"
-thumb: "Vegan-Egg.jpg"
+thumb: 2016-01-Vegan-Egg.jpg
 ---
 
 We're in New York City for the holidays again, and paid a visit to [Haymaker's Corner](http://www.haymakersbk.com/) - an all vegan grocery store in Brooklyn, NY. We had [pre-ordered a holiday meal from them](https://www.instagram.com/p/_c4x5BBFSg/?taken-by=haymakerscorner), and some stuff from [Vegan Treats](http://vegantreats.com/) - and luckily, the night before, they also got in a shipment of Follow Your Heart's new(ish) [Vegan Egg](http://followyourheart.com/veganegg/). I also ordered two boxes from [Rabbit Food Grocery](http://www.rabbitfoodgrocery.com/) in Austin and had it shipped to NYC.

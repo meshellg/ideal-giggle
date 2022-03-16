@@ -1,7 +1,7 @@
 ---
 title: "Keo's Kitchen on 2nd"
 date: "2010-04-23"
-tags: "Saskatoon"
+tags: "saskatoon"
 thumb:
 ---
 

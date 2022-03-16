@@ -2,7 +2,7 @@
 title: "VeganMoFo 2018 - Macaroni and Potato cheese"
 date: "2018-09-07"
 tags:
-  - "veganmofo"
+  - "vegan-mofo"
 thumb: "2018-09-mac-and-potatoes-768x513.jpg"
 ---
 

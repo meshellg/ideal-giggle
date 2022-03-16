@@ -2,7 +2,6 @@
 title: "Stratford, Ontario - The Planet Diner"
 date: "2018-06-17"
 tags:
-  - "travelling"
   - "stratford"
 thumb: "2018-06-the-planet-diner-interior.jpg"
 ---

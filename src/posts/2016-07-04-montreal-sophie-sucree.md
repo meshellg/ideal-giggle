@@ -3,7 +3,6 @@ title: "Montreal - Sophie Sucrée"
 date: "2016-07-04"
 tags:
   - "montreal"
-  - "travelling"
 thumb: "2016-07-Sophie-Sucree-Cinnamon-Bun.jpg"
 ---
 

@@ -3,7 +3,6 @@ title: "2014 Roadtrip - Helena, Montana"
 date: "2016-08-14"
 tags:
   - "roadtrip-2014"
-  - "travelling"
 thumb: 2016-06-Taco-Del-Mar.jpg
 ---
 

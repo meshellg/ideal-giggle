@@ -3,7 +3,7 @@ title: "Blue Plate Diner"
 date: "2010-05-22"
 tags:
   - "edmonton"
-  - "Farmers-market"
+  - "farmers-market"
 thumb: 2010-05-blueplatediner.jpg
 ---
 

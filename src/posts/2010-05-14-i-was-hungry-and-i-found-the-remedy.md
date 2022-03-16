@@ -2,7 +2,7 @@
 title: "I was hungry, and I found the Remedy."
 date: "2010-05-14"
 tags:
-  - "Edmonton"
+  - "edmonton"
 thumb: 2010-05-BrendaDavis.jpg
 ---
 

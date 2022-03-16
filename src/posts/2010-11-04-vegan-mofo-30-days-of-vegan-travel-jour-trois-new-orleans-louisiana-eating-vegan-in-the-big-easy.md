@@ -3,7 +3,7 @@ title: "Vegan MoFo: 30 Days of Vegan Travel - Jour Trois - New Orleans, Louisian
 date: "2010-11-04"
 tags:
 - "new-orleans"
-- "Vegan-MoFo"
+- "vegan-mofo"
 thumb: 2010-11-NewOrleans.jpg
 ---
 

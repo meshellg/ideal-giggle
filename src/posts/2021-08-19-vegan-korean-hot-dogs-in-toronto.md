@@ -2,7 +2,7 @@
 title: "Vegan Korean Hot Dogs in Toronto"
 date: "2021-08-19"
 tags:
-- "Toronto"
+- "toronto"
 thumb: "2021-08-Vegan-Korean-Hot-Dogs-500x250.jpg"
 ---
 

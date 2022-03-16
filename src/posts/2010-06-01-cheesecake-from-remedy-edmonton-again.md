@@ -2,7 +2,7 @@
 title: "Cheesecake from Remedy Edmonton... again"
 date: "2010-06-01"
 tags:
-- Edmonton
+- "edmonton"
 thumb: 2010-06-remedycheesecake.jpg
 ---
 

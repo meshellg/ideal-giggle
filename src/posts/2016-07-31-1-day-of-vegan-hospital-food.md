@@ -6,7 +6,7 @@ tags:
 thumb: "2016-07-Hospital-Food.jpg"
 ---
 
-Well, nearly 4 months ago I wrote a [big long piece about the birth of our new baby](http://meshell.ca/the-day-our-son-was-born/), and since I spent about 24 hours in a hospital, that meant that they also tried to feed me a few meals at St. Joseph's Hospital in Toronto, and since some folks were curious what vegan hospital food looked like... here it is!
+Well, nearly 4 months ago I wrote a [big long piece about the birth of our new baby](/the-day-our-son-was-born/), and since I spent about 24 hours in a hospital, that meant that they also tried to feed me a few meals at St. Joseph's Hospital in Toronto, and since some folks were curious what vegan hospital food looked like... here it is!
 
 [![TBC](images/26238606425_bb55efe27d_c.jpg)](https://www.flickr.com/photos/prairiev/26238606425/in/album-72157670271182242/ "Untitled")
 

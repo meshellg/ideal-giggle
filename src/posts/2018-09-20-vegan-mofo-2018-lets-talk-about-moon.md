@@ -2,7 +2,7 @@
 title: "Vegan Mofo 2018 - Let's Talk about Moon."
 date: "2018-09-20"
 tags:
-  - "veganmofo"
+  - "vegan-mofo"
 thumb: "2018-10-IMG_20180916_170643_01-min-768x432.jpg"
 ---
 

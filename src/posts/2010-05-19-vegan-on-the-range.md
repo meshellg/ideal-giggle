@@ -2,7 +2,7 @@
 title: "Vegan on the range."
 date: "2010-05-19"
 tags:
-  - "Athabasca"
+  - "alberta"
 thumb: 2010-05-athabasca.jpg
 ---
 

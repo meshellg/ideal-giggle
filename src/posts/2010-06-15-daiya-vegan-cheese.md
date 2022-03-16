@@ -2,8 +2,8 @@
 title: "Daiya Vegan Cheese"
 date: "2010-06-15"
 tags:
-- Edmonton
-- review
+- "edmonton"
+- "review"
 thumb: 2010-06-Daiya.jpg
 ---
 

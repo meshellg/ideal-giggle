@@ -2,7 +2,7 @@
 title: "Veganmofo 2018 - Baked Potato Soup"
 date: "2018-09-03"
 tags:
-  - "veganmofo"
+  - "vegan-mofo"
 thumb: "2018-09-fully-loaded-baked-potato-soup-768x513.jpg"
 ---
 

@@ -2,7 +2,6 @@
 title: "Vancouver - Indigo Age Cafe"
 date: "2017-08-16"
 tags:
-  - "travelling"
   - "vancouver"
 thumb: "2017-08-Indigo-Age-Cafe-Vegan-Vancouver-Ukrainian-Food.jpg"
 ---

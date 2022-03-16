@@ -1,7 +1,7 @@
 ---
 title: "Not going out to eat for a while... maybe."
 date: "2010-05-28"
-tags: Edmonton
+tags: "edmonton"
 thumb: 2010-05-eatingathome.jpg
 ---
 

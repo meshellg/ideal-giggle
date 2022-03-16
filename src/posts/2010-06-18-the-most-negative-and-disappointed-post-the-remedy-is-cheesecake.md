@@ -1,8 +1,7 @@
 ---
 title: "The Remedy is cheesecake."
 date: "2010-06-18"
-tags:
-- Edmonton
+tags: "edmonton"
 thumb: 2010-06-remedycheesecake.jpg
 ---
 

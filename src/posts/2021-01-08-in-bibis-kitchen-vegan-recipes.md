@@ -2,7 +2,7 @@
 title: "In Bibi's Kitchen - Vegan Recipes"
 date: "2021-01-08"
 tags:
-  - "cookbook-review"
+  - "review"
 thumb: 2021-07-InBibisKitchen.jpg
 ---
 

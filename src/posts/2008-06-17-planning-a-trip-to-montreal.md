@@ -1,7 +1,7 @@
 ---
 title: "Planning a trip to Montreal"
 date: "2008-06-17"
-tags: "Montreal"
+tags: "montreal"
 ---
 
 I'm a big fan of planning, planning and more planning, when I go anywhere. So since I'm off to Montreal in La Belle Provence for a month or so, that's what I have been doing. Luckily there are an amazing amount of resources available to me, thank you internet! Once upon a time when I planned a trip to Vancouver, I used something as archaic as a... BOOK. But this time is no different; I still bought my trusty guidebook, complete with fold out map.

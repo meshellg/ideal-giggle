@@ -2,8 +2,8 @@
 title: "Makowiec - Poppy Seed Roll - Vegan Mofo 2017 Day 4"
 date: "2017-10-05"
 tags:
-  - "polish-vegan-food"
   - "vegan-mofo"
+  - "recipe"
 thumb: "2017-08-Macowiec-open.jpg"
 ---
 

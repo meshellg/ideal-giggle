@@ -1,7 +1,7 @@
 ---
 title: "Best Cheesecake Ever."
 date: "2010-06-09"
-tags: Edmonton
+tags: "edmonton"
 thumb: 2010-06-BestCheeseCake.jpg
 ---
 

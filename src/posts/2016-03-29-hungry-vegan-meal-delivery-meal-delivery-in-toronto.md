@@ -2,15 +2,13 @@
 title: "Hungry Vegan Meal Delivery - Meal Delivery in Toronto"
 date: "2016-03-29"
 tags: "toronto"
-thumb: "2016-03-smaller-hungry-vegan-delivery.jpg"
+thumb: 2016-03-smaller-hungry-vegan-delivery.jpg
 ---
 I've been working my way through the various meal-delivery services just to see how they work before we actually might need to take advantages of them out of necessity, so I'll try and get some more posts up about those, but so far, Hungry Vegan has been one of my favourites.
 
 Hungry Vegan has been around for a few years and is based out of Chatham-Kent. Luckily, they also offer vegan meal delivery to Toronto (as well as along the Windsor-Toronto corridor) in addition to having a store-front in Chatham-Kent Ontario. I've ordered from them three times so far, and I can see myself doing so again in the near future - especially since we might be total zombies once the baby arrives. As an added bonus, it sounds like they might be moving or adding a kitchen in the GTA in the next few months as well.
 
 They offer organic, vegan, gluten-free meals, salads, drinks, desserts, and dips, and have been doing Toronto delivery on Wednesday (just place an order by Monday.)
-
-![smaller hungry vegan delivery](images/smaller-hungry-vegan-delivery.jpg)
 
 For my first order I just picked a random assortment of savoury looking meals to try them out:
 

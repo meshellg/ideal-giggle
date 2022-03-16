@@ -3,7 +3,7 @@ title: "Weekend in Detroit"
 date: "2015-11-21"
 tags:
   - "detroit"
-thumb: "michago-deepdish.jpg"
+thumb: 2015-11-michago-deepdish.jpg
 ---
 
 I've needed to get out of town. Somewhere new(ish). Somewhere interesting. But still something close enough to drive to on the weekend. So we decided to visit Detroit last weekend.

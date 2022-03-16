@@ -2,7 +2,6 @@
 title: "Naleśniki - Polish Crepes -  Vegan Mofo"
 date: "2017-10-01"
 tags:
-  - "polish-vegan-food"
   - "vegan-mofo"
 thumb: "2017-10-Naleśniki-Polish-Crepes.jpg"
 ---

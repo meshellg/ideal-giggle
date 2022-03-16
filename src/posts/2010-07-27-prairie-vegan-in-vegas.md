@@ -17,9 +17,9 @@ Loved this place, and have to go again! What I am really curious about, is wheth
 
 \- **Komol** - 953 East Sahara Avenue,  Las Vegas, NV 89104-3014  (702) 731-6542 I went to this restaurant in 2006, it's conveniently located not too far from the strip and has a number of delicious vegan and vegetarian options on the menu.
 
-\- [**Atomic #7's Organic & Vegan Ice Cream store**](http://atomicnumber7.com/) - 605 Mall Ring Circle #110, Henderson, NV Vegan ice cream? Need I say more? It's a bit out of the way, but maybe it'll be worth the hour long bus ride? **How to get there by bus**: The route to take from the strip according to Google Maps, is the 301 - The Duce NB (at 27 past every hour) connect to the 402 - Crosstown Connector/Boulder City SEB (on the hour) get off at Sunset @ Sunset Station (E) and walk for less than five minutes.
+\- **Atomic #7's Organic & Vegan Ice Cream store** - 605 Mall Ring Circle #110, Henderson, NV Vegan ice cream? Need I say more? It's a bit out of the way, but maybe it'll be worth the hour long bus ride? **How to get there by bus**: The route to take from the strip according to Google Maps, is the 301 - The Duce NB (at 27 past every hour) connect to the 402 - Crosstown Connector/Boulder City SEB (on the hour) get off at Sunset @ Sunset Station (E) and walk for less than five minutes.
 
-\- [**Go Raw Cafe**](http://gorawcafe.com/) **-** Has two locations: 2381 E Windmill Lane (in Smith's Shopping Center) and 2910 Lake East Drive (in the Lakes Center) Nothing in particular was suggested, but most reviews have been favourable.
+\- **Go Raw Cafe** Has two locations: 2381 E Windmill Lane (in Smith's Shopping Center) and 2910 Lake East Drive (in the Lakes Center) Nothing in particular was suggested, but most reviews have been favourable.
 
 **\- [Wazuzu](http://encorelasvegas.com/) \-** 3131 Las Vegas Blvd S, 702-770-5388 Located in the Wynn on the Strip. According to the Happy Cow listing they have a separate vegan menu available, you just need to ask. I'll probably give them a call to confirm before I actually visit.
 

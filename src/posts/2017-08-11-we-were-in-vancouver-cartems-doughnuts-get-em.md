@@ -2,7 +2,6 @@
 title: "We were in Vancouver. Cartems Doughnuts. Get em."
 date: "2017-08-11"
 tags:
-  - "travelling"
   - "vancouver"
 thumb: 2017-08-Beeboo-in-the-Airplane.jpg
 ---

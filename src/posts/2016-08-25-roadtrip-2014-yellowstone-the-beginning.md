@@ -3,7 +3,6 @@ title: "Roadtrip 2014 - Yellowstone - The beginning"
 date: "2016-08-25"
 tags:
   - "roadtrip-2014"
-  - "travelling"
 thumb: "2016-08-yellowstone.jpg"
 ---
 

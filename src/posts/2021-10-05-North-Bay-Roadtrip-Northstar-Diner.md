@@ -2,7 +2,7 @@
 title: "North Bay Roadtrip - Northstar Diner"
 date: "2021-10-05"
 tags:
-  - "North-bay"
+  - "north-bay"
 thumb: 2021-10-North-Star-Diner-Halifax-Donair-500x250.jpg
 ---
 

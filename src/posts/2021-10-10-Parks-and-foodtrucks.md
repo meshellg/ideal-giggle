@@ -3,7 +3,6 @@ title: "Parks and Foodtrucks"
 date: "2021-10-10"
 tags:
   - "Ontario-Parks"
-  - "Ontario"
 thumb: "2021-10-Restoule-Stormy-Lake-Picnic-area-500x250.jpg"
 ---
 

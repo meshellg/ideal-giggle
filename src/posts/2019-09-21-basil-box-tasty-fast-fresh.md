@@ -1,9 +1,7 @@
 ---
 title: "Basil Box - Tasty, Fast & Fresh"
 date: "2019-09-21"
-tags:
-  - "gluten-free"
-  - "Toronto"
+tags: "toronto"
 thumb: "2019-09-basil-box.jpg"
 ---
 

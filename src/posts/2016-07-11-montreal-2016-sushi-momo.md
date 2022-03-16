@@ -3,7 +3,6 @@ title: "Montréal 2016 - Sushi Momo"
 date: "2016-07-11"
 tags:
   - "montreal"
-  - "travelling"
 thumb: "2016-07-Sushi-Momo-St-Laurent.jpg"
 ---
 

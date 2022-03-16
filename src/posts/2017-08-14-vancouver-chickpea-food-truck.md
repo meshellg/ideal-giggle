@@ -2,7 +2,6 @@
 title: "Vancouver - Chickpea Food Truck"
 date: "2017-08-14"
 tags:
-  - "travelling"
   - "vancouver"
 thumb: "2017-08-chickpea-food-truck-vancouver-falafal-plate.jpg"
 ---

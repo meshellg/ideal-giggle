@@ -6,7 +6,7 @@ tags:
 thumb: "2018-08-farmr-table-768x434.jpg"
 ---
 
-I recently had the opportunity to visit [Farm'r](https://farmr.ca/), a local procurement centring, seasonal, farm-to-table style restaurant on the Esplanade. They have a great covered patio outside, and bright cheerful indoor seating, with great lighting.
+I recently had the opportunity to visit [Farm'r](https://farmr.ca/), a local procurement centering, seasonal, farm-to-table style restaurant on the Esplanade. They have a great covered patio outside, and bright cheerful indoor seating, with great lighting.
 
 But what I really want to talk about is the food - because I liked it. A lot.
 

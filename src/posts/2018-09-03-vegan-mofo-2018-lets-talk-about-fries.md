@@ -2,7 +2,7 @@
 title: "Vegan MoFo 2018 - Lets talk about fries."
 date: "2018-09-03"
 tags:
-  - "veganmofo"
+  - "vegan-mofo"
 thumb: "2018-09-homemade-fries-768x576.jpg"
 ---
 

@@ -3,7 +3,6 @@ title: "Montréal 2016 - Café Dei Campi"
 date: "2016-07-15"
 tags:
   - "montreal"
-  - "travelling"
 thumb: "2016-07-Cafe-Dei-Campi-Cornetto.jpg"
 ---
 

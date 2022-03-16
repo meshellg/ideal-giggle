@@ -2,7 +2,7 @@
 title: "Barrie, Ontario – Mexhico"
 date: "2021-10-25"
 tags:
-  - "Barrie"
+  - "barrie"
 thumb: "2021-10-mexhico-500x250.jpg"
 ---
 
@@ -10,11 +10,11 @@ thumb: "2021-10-mexhico-500x250.jpg"
 
 The food highlight of the afternoon was stopping into Mexhico in Barrie. Now, we've been to Barrie before, and we've been to Valiant's (and before when it was Boon Burger), we've been to the Lazy Tulip, the Vegan Pantry, and picked up TJ's Pizza and Curry in a Hurry, and they've all been good to great in different ways. We even ate at The Local Gastropub, which was the previous tenant of Mexhico's current location. Over all, I always feel like Barrie is a great destination for vegans, but at the moment, Mexhico is my favourite of them all and I'm looking forward to returning for another visit.
 
-![](https://meshell.ca/blog/wp-content/uploads/2021/10/Mexhico-1024x768.jpg)
+![Mexhico-1024x768.jpg](https://meshell.ca/blog/wp-content/uploads/2021/10/Mexhico-1024x768.jpg)
 
 They offered a nice menu of very delicious Mexican-inspired options, and they're entirely vegan. We were really happy with everything we ordered. They are offering dine in, take out, and delivery through the usual apps. We should have ordered before we got there, but JC ordered in person and it took a while for our food to be ready, but to be fair to the restaurant, we ordered a fair bit, and it was worth the wait.
 
-![](https://meshell.ca/blog/wp-content/uploads/2021/10/Barbacoa-1024x761.jpg)
+![Mexhico-1024x768.jpg](Barbacoa-1024x761.jpg)
 
 I got the barbacoa tacos with a side of 31 Salsa. The tacos themselves are quite mild, but the texture and flavour is perfect.
 

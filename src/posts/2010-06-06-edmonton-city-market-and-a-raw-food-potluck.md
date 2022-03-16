@@ -3,7 +3,7 @@ title: "Edmonton City Market and a Raw Food Potluck"
 date: "2010-06-06"
 tags:
   - "farmers-market"
-  - "Edmonton"
+  - "edmonton"
 thumb: 2010-06-EdmontonCityMarket.jpg
 ---
 

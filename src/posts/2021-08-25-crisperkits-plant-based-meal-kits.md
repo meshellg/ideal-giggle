@@ -2,7 +2,7 @@
 title: "CrisperKits Plant Based Meal Kits"
 date: "2021-08-25"
 tags:
-  - "cooking-at-home"
+  - "home-cooking"
 thumb: "2021-08-Contents-of-a-meal-500x250.jpg"
 ---
 

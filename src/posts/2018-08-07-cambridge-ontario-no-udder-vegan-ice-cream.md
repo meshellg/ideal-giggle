@@ -1,7 +1,7 @@
 ---
 title: "Cambridge, Ontario - No Udder Vegan Ice Cream"
 date: "2018-08-07"
-tags: "Cambridge"
+tags: "cambridge"
 thumb: "2018-07-No-Udder-Cambridge.jpg"
 ---
 

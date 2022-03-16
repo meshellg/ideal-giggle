@@ -1,7 +1,7 @@
 ---
 title: "Vegan Iron Chef PDX. Other stuff."
 date: "2010-06-05"
-tags: Portland
+tags: "portland"
 thumb: 2010-06-mousaka.jpg
 ---
 

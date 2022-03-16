@@ -2,7 +2,7 @@
 title: "O'Sole Mio Vegan Tortellini & Sauces"
 date: "2021-07-16"
 tags:
-  - "toronto"
+  - "review"
 thumb: 2021-07-O-Sole-Mio-Preprared-Tortellini-500x250.jpg
 ---
 

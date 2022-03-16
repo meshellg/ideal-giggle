@@ -2,7 +2,7 @@
 title: "VeganMoFo - Potato Lasagna"
 date: "2018-09-05"
 tags:
-  - "veganmofo"
+  - "vegan-mofo"
 thumb: "2018-09-potato-lasagna.jpg"
 ---
 

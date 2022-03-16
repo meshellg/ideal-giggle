@@ -2,7 +2,7 @@
 title: "VeganMofo 2018 - Day Zero - A Month of Potatoes"
 date: "2018-08-31"
 tags:
-  - "veganmofo"
+  - "vegan-mofo"
 thumb: "2018-08-potato.jpg"
 ---
 

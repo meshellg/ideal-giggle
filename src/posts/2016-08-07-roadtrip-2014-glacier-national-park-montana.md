@@ -3,7 +3,6 @@ title: "Roadtrip 2014 - Glacier National Park, Montana"
 date: "2016-08-07"
 tags:
   - "roadtrip-2014"
-  - "travelling"
 thumb: "2016-08-Glacier-National-Park.jpg"
 ---
 

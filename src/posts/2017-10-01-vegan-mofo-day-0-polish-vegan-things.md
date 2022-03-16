@@ -2,7 +2,6 @@
 title: "Vegan Mofo - Day 0 - Polish Vegan Things"
 date: "2017-10-01"
 tags:
-  - "polish-vegan-food"
   - "veganmofo"
 thumb: "mofobanner2clean.jpg"
 ---
