@@ -8,7 +8,7 @@ thumb: Pickle-Soup-Zupa-Ogorkowa.jpg
 
 In the middle of the day last night I had this craving for Pickle soup. I started thinking about it, and then could not wait to get home and make it. JC and I stopped in to a grocery store to pick up a few white potatoes and a carrot (because I knew we had a bunch of onions and pickles at home), and I was ready to get cooking.
 
-![Pickle Soup - Zupa Ogorkowa](/Pickle-Soup-Zupa-Ogorkowa.jpg)
+![Pickle Soup - Zupa Ogorkowa](/simple-pickle-soup-zupa-ogorkowa-bez-smietany/Pickle-Soup-Zupa-Ogorkowa.jpg)
 
 Making this soup felt like I was running on some kind of deep genetic pickle soup knowledge when I got into the kitchen, because of course, zupa ogórkowa (ZOO-pah, Oh-goorr-Koh-Vah), is a thing I've eaten since I was a kid. I'm sure I watched my mom make it when I was growing up. Maybe even helped peel or chop potatoes (maybe.)
 
